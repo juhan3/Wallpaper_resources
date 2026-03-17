@@ -2,7 +2,7 @@
   {
     "id": "001",
     "title": "You know...",
-    "category": "KOR",
+    "category": "Hangeul",
     "thumbnailUrl": "images/001/thumb.jpg",
     "imageUrl": {
       "standard": "images/001/1179x2556.jpg",
@@ -12,7 +12,7 @@
   {
     "id": "002",
     "title": "I know",
-    "category": "KOR",
+    "category": "Hangeul",
     "thumbnailUrl": "images/002/thumb.jpg",
     "imageUrl": {
       "standard": "images/002/1179x2556.jpg",
@@ -22,7 +22,7 @@
   {
     "id": "003",
     "title": "Don't lie to me",
-    "category": "KOR",
+    "category": "Hangeul",
     "thumbnailUrl": "images/003/thumb.jpg",
     "imageUrl": {
       "standard": "images/003/1179x2556.jpg",
@@ -32,7 +32,7 @@
   {
     "id": "004",
     "title": "?",
-    "category": "KOR",
+    "category": "Hangeul",
     "thumbnailUrl": "images/004/thumb.jpg",
     "imageUrl": {
       "standard": "images/004/1179x2556.jpg",
