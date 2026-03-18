@@ -68,6 +68,26 @@
       "standard": "images/007/1179x2556.jpg",
       "large":    "images/007/1320x2868.jpg"
     }
+  },
+  {
+    "id": "008",
+    "title": "Pig toy box",
+    "category": "Drawing",
+    "thumbnailUrl": "images/008/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/008/1179x2556.jpg",
+      "large":    "images/008/1320x2868.jpg"
+    }
+  },
+  {
+    "id": "009",
+    "title": "paper cup",
+    "category": "Drawing",
+    "thumbnailUrl": "images/009/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/009/1179x2556.jpg",
+      "large":    "images/009/1320x2868.jpg"
+    }
   }
   
 ]
