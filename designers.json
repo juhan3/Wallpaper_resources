@@ -1,0 +1,9 @@
+[
+  {
+    "id": "designer_1",
+    "name": "Jane Doe",
+    "profileImage": "images/designers/jane.jpg",
+    "instagramUrl": "https://instagram.com/janedoe",
+    "bio": "NYC-based illustrator"
+  }
+]
