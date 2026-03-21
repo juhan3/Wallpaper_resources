@@ -115,15 +115,24 @@
     }
   },
   {
-  "id": "009",
-  "title": "paper cup",
-  "category": "Drawing",
-  "designerId": "designer_1",
-  "date": "2026-03-22",
-  "thumbnailUrl": "images/009/thumb.jpg",
-  "imageUrl": {
-    "standard": "images/009/1179x2556.jpg",
-    "large": "images/009/1320x2868.jpg"
+    "id": "009",
+    "title": "canned",
+    "category": "Tiny",
+    "designerId": "designer_1",
+    "date": "2026-03-21",
+    "spots": [
+    { "x": 58, "y": 2080 },
+    { "x": 171, "y": 1057 },
+    { "x": 410, "y": 1571 },
+    { "x": 607, "y": 743 },
+    { "x": 1102, "y": 1396 }
+  ],
+     "hintUrl": "images/009/hint.jpg",
+    "thumbnailUrl": "images/009/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/009/1179x2556.jpg",
+      "large":    "images/009/1320x2868.jpg"
+    }
   }
 }
 
