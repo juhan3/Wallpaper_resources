@@ -81,6 +81,14 @@
     "title": "Pig toy box",
     "category": "Drawing",
     "designerId": "designer_1",
+    "spots": [
+    { "x": 464, "y": 258 },
+    { "x": 594, "y": 890 },
+    { "x": 975, "y": 1102 },
+    { "x": 464, "y": 1776 },
+    { "x": 1041, "y": 2308 }
+  ],
+     "hintUrl": "images/008/hint.jpg",
     "thumbnailUrl": "images/008/thumb.jpg",
     "imageUrl": {
       "standard": "images/008/1179x2556.jpg",
@@ -92,13 +100,6 @@
   "title": "paper cup",
   "category": "Drawing",
   "designerId": "designer_1",
-  "spots": [
-    { "x": 464, "y": 258 },
-    { "x": 594, "y": 890 },
-    { "x": 975, "y": 1102 },
-    { "x": 464, "y": 1776 },
-    { "x": 1041, "y": 2308 }
-  ],
   "thumbnailUrl": "images/009/thumb.jpg",
   "imageUrl": {
     "standard": "images/009/1179x2556.jpg",
