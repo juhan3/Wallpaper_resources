@@ -1,77 +1,37 @@
 [
   {
-    "id": "001",
-    "title": "You know...",
-    "category": "Typography",
-    "designerId": "designer_1",
-    "thumbnailUrl": "images/001/thumb.jpg",
-    "imageUrl": {
-      "standard": "images/001/1179x2556.jpg",
-      "large":    "images/001/1320x2868.jpg"
-    }
-  },
-  {
-    "id": "002",
-    "title": "I know",
-    "category": "Typography",
-    "designerId": "designer_1",
-    "thumbnailUrl": "images/002/thumb.jpg",
-    "imageUrl": {
-      "standard": "images/002/1179x2556.jpg",
-      "large":    "images/002/1320x2868.jpg"
-    }
-  },
-  {
-    "id": "003",
-    "title": "Don't lie to me",
-    "category": "Typography",
-    "designerId": "designer_1",
-    "thumbnailUrl": "images/003/thumb.jpg",
-    "imageUrl": {
-      "standard": "images/003/1179x2556.jpg",
-      "large":    "images/003/1320x2868.jpg"
-    }
-  },
-  {
-    "id": "004",
-    "title": "?",
-    "category": "Typography",
-    "designerId": "designer_1",
-    "thumbnailUrl": "images/004/thumb.jpg",
-    "imageUrl": {
-      "standard": "images/004/1179x2556.jpg",
-      "large":    "images/004/1320x2868.jpg"
-    }
-  },
-  {
-    "id": "005",
-    "title": "Horse/Speech",
-    "category": "Typography",
-    "designerId": "designer_1",
-    "thumbnailUrl": "images/005/thumb.jpg",
-    "imageUrl": {
-      "standard": "images/005/1179x2556.jpg",
-      "large":    "images/005/1320x2868.jpg"
-    }
-  },
-  {
     "id": "006",
     "title": "Tissue box",
     "category": "Tiny",
     "designerId": "designer_1",
     "date": "2026-03-21",
     "spots": [
-    { "x": 237, "y": 1101 },
-    { "x": 479, "y": 1316 },
-    { "x": 767, "y": 1680 },
-    { "x": 400, "y": 1856 },
-    { "x": 1036, "y": 1887 }
-  ],
-     "hintUrl": "images/006/hint.jpg",
+      {
+        "x": 237,
+        "y": 1101
+      },
+      {
+        "x": 479,
+        "y": 1316
+      },
+      {
+        "x": 767,
+        "y": 1680
+      },
+      {
+        "x": 400,
+        "y": 1856
+      },
+      {
+        "x": 1036,
+        "y": 1887
+      }
+    ],
+    "hintUrl": "images/006/hint.jpg",
     "thumbnailUrl": "images/006/thumb.jpg",
     "imageUrl": {
       "standard": "images/006/1179x2556.jpg",
-      "large":    "images/006/1320x2868.jpg"
+      "large": "images/006/1320x2868.jpg"
     }
   },
   {
@@ -81,17 +41,32 @@
     "designerId": "designer_1",
     "date": "2026-03-21",
     "spots": [
-    { "x": 535, "y": 669 },
-    { "x": 502, "y": 1908 },
-    { "x": 1189, "y": 1520 },
-    { "x": 935, "y": 1287 },
-    { "x": 334, "y": 1556 }
-  ],
-     "hintUrl": "images/007/hint.jpg",
+      {
+        "x": 535,
+        "y": 669
+      },
+      {
+        "x": 502,
+        "y": 1908
+      },
+      {
+        "x": 1189,
+        "y": 1520
+      },
+      {
+        "x": 935,
+        "y": 1287
+      },
+      {
+        "x": 334,
+        "y": 1556
+      }
+    ],
+    "hintUrl": "images/007/hint.jpg",
     "thumbnailUrl": "images/007/thumb.jpg",
     "imageUrl": {
       "standard": "images/007/1179x2556.jpg",
-      "large":    "images/007/1320x2868.jpg"
+      "large": "images/007/1320x2868.jpg"
     }
   },
   {
@@ -101,17 +76,32 @@
     "designerId": "designer_1",
     "date": "2026-03-21",
     "spots": [
-    { "x": 258, "y": 1605 },
-    { "x": 258, "y": 864 },
-    { "x": 1188, "y": 1498 },
-    { "x": 850, "y": 2104 },
-    { "x": 1103, "y": 966 }
-  ],
-     "hintUrl": "images/008/hint.jpg",
+      {
+        "x": 258,
+        "y": 1605
+      },
+      {
+        "x": 258,
+        "y": 864
+      },
+      {
+        "x": 1188,
+        "y": 1498
+      },
+      {
+        "x": 850,
+        "y": 2104
+      },
+      {
+        "x": 1103,
+        "y": 966
+      }
+    ],
+    "hintUrl": "images/008/hint.jpg",
     "thumbnailUrl": "images/008/thumb.jpg",
     "imageUrl": {
       "standard": "images/008/1179x2556.jpg",
-      "large":    "images/008/1320x2868.jpg"
+      "large": "images/008/1320x2868.jpg"
     }
   },
   {
@@ -121,20 +111,32 @@
     "designerId": "designer_1",
     "date": "2026-03-21",
     "spots": [
-    { "x": 58, "y": 2080 },
-    { "x": 171, "y": 1057 },
-    { "x": 410, "y": 1571 },
-    { "x": 607, "y": 743 },
-    { "x": 1102, "y": 1396 }
-  ],
-     "hintUrl": "images/009/hint.jpg",
+      {
+        "x": 58,
+        "y": 2080
+      },
+      {
+        "x": 171,
+        "y": 1057
+      },
+      {
+        "x": 410,
+        "y": 1571
+      },
+      {
+        "x": 607,
+        "y": 743
+      },
+      {
+        "x": 1102,
+        "y": 1396
+      }
+    ],
+    "hintUrl": "images/009/hint.jpg",
     "thumbnailUrl": "images/009/thumb.jpg",
     "imageUrl": {
       "standard": "images/009/1179x2556.jpg",
-      "large":    "images/009/1320x2868.jpg"
+      "large": "images/009/1320x2868.jpg"
     }
   }
-
-
-  
 ]
