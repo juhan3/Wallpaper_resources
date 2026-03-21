@@ -81,7 +81,7 @@
     "title": "Pig toy box",
     "category": "Tiny",
     "designerId": "designer_1",
-    “date": "2026-03-21",
+    "date": "2026-03-21",
     "spots": [
     { "x": 258, "y": 1605 },
     { "x": 258, "y": 864 },
@@ -101,7 +101,7 @@
   "title": "paper cup",
   "category": "Drawing",
   "designerId": "designer_1",
-  “date": "2026-03-22",
+  "date": "2026-03-22",
   "thumbnailUrl": "images/009/thumb.jpg",
   "imageUrl": {
     "standard": "images/009/1179x2556.jpg",
