@@ -138,5 +138,39 @@
       "standard": "images/009/1179x2556.jpg",
       "large": "images/009/1320x2868.jpg"
     }
+  },
+  {
+    "id": "005",
+    "title": "Cats and Ducks",
+    "category": "Tiny",
+    "designerId": "designer_1",
+    "thumbnailUrl": "images/005/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/005/1179x2556.jpg",
+      "large": "images/005/1320x2868.jpg"
+    },
+    "spots": [
+      {
+        "x": 113,
+        "y": 1738
+      },
+      {
+        "x": 660,
+        "y": 1240
+      },
+      {
+        "x": 1008,
+        "y": 1404
+      },
+      {
+        "x": 1168,
+        "y": 1798
+      },
+      {
+        "x": 395,
+        "y": 2087
+      }
+    ],
+    "hintUrl": "images/005/hint.jpg"
   }
 ]
