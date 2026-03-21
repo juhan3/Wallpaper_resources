@@ -76,9 +76,18 @@
   },
   {
     "id": "007",
-    "title": "No",
-    "category": "Typography",
+    "title": "paper cup",
+    "category": "Tiny",
     "designerId": "designer_1",
+    "date": "2026-03-21",
+    "spots": [
+    { "x": 535, "y": 669 },
+    { "x": 502, "y": 1908 },
+    { "x": 1189, "y": 1520 },
+    { "x": 935, "y": 1287 },
+    { "x": 334, "y": 1556 }
+  ],
+     "hintUrl": "images/007/hint.jpg",
     "thumbnailUrl": "images/007/thumb.jpg",
     "imageUrl": {
       "standard": "images/007/1179x2556.jpg",
