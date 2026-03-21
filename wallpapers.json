@@ -1,5 +1,39 @@
 [
   {
+    "id": "003",
+    "title": "Pumpkin",
+    "category": "Message",
+    "designerId": "designer_1",
+    "thumbnailUrl": "images/003/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/003/1179x2556.jpg",
+      "large": "images/003/1320x2868.jpg"
+    },
+    "spots": [
+      {
+        "x": 117,
+        "y": 1029
+      },
+      {
+        "x": 833,
+        "y": 1358
+      },
+      {
+        "x": 1144,
+        "y": 1672
+      },
+      {
+        "x": 666,
+        "y": 2039
+      },
+      {
+        "x": 936,
+        "y": 2009
+      }
+    ],
+    "hintUrl": "images/003/hint.jpg"
+  },
+  {
     "id": "004",
     "title": "Birds in the typhoon",
     "category": "Message",
@@ -35,7 +69,7 @@
   },
   {
     "id": "005",
-    "title": "Cats and Ducks",
+    "title": "Cat and Ducks",
     "category": "Tiny",
     "designerId": "designer_1",
     "thumbnailUrl": "images/005/thumb.jpg",
