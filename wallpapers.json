@@ -172,5 +172,16 @@
       }
     ],
     "hintUrl": "images/005/hint.jpg"
+  },
+  {
+    "id": "004",
+    "title": "Birds in the typhoon",
+    "category": "News",
+    "designerId": "designer_1",
+    "thumbnailUrl": "images/004/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/004/1179x2556.jpg",
+      "large": "images/004/1320x2868.jpg"
+    }
   }
 ]
