@@ -82,11 +82,11 @@
     "category": "Drawing",
     "designerId": "designer_1",
     "spots": [
-    { "x": 464, "y": 258 },
-    { "x": 594, "y": 890 },
-    { "x": 975, "y": 1102 },
-    { "x": 464, "y": 1776 },
-    { "x": 1041, "y": 2308 }
+    { "x": 258, "y": 1605 },
+    { "x": 258, "y": 864 },
+    { "x": 1188, "y": 1498 },
+    { "x": 850, "y": 2104 },
+    { "x": 1103, "y": 966 }
   ],
      "hintUrl": "images/008/hint.jpg",
     "thumbnailUrl": "images/008/thumb.jpg",
