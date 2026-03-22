@@ -398,5 +398,41 @@
     ],
     "hintUrl": "images/012/hint.jpg",
     "sec": 29
+  },
+  {
+    "id": "013",
+    "title": "You know...(Kor)",
+    "category": "Typography",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/013/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/013/1179x2556.jpg",
+      "large": "images/013/1320x2868.jpg",
+      "ipad": "images/013/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 406,
+        "y": 1135
+      },
+      {
+        "x": 641,
+        "y": 1277
+      },
+      {
+        "x": 570,
+        "y": 1777
+      },
+      {
+        "x": 748,
+        "y": 2223
+      },
+      {
+        "x": 286,
+        "y": 2720
+      }
+    ],
+    "hintUrl": "images/013/hint.jpg",
+    "sec": 29
   }
 ]
