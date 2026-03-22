@@ -434,5 +434,41 @@
     ],
     "hintUrl": "images/013/hint.jpg",
     "sec": 29
+  },
+  {
+    "id": "014",
+    "title": "Plant box",
+    "category": "Tiny",
+    "designerId": "designer_1",
+    "thumbnailUrl": "images/014/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/014/1179x2556.jpg",
+      "large": "images/014/1320x2868.jpg",
+      "ipad": "images/014/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 212,
+        "y": 441
+      },
+      {
+        "x": 1242,
+        "y": 1348
+      },
+      {
+        "x": 380,
+        "y": 1776
+      },
+      {
+        "x": 1200,
+        "y": 2043
+      },
+      {
+        "x": 440,
+        "y": 2223
+      }
+    ],
+    "hintUrl": "images/014/hint.jpg",
+    "sec": 29
   }
 ]
