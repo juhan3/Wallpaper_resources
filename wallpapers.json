@@ -308,5 +308,39 @@
       }
     ],
     "hintUrl": "images/010/hint.jpg"
+  },
+  {
+    "id": "011",
+    "title": "School",
+    "category": "Message",
+    "designerId": "designer_1",
+    "thumbnailUrl": "images/011/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/011/1179x2556.jpg",
+      "large": "images/011/1320x2868.jpg"
+    },
+    "spots": [
+      {
+        "x": 1212,
+        "y": 137
+      },
+      {
+        "x": 335,
+        "y": 494
+      },
+      {
+        "x": 1253,
+        "y": 1148
+      },
+      {
+        "x": 275,
+        "y": 1869
+      },
+      {
+        "x": 776,
+        "y": 2771
+      }
+    ],
+    "hintUrl": "images/011/hint.jpg"
   }
 ]
