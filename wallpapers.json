@@ -274,5 +274,39 @@
     ],
     "date": "2026-03-21",
     "hintUrl": "images/009/hint.jpg"
+  },
+  {
+    "id": "010",
+    "title": "Jungle",
+    "category": "Message",
+    "designerId": "designer_1",
+    "thumbnailUrl": "images/010/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/010/1179x2556.jpg",
+      "large": "images/010/1320x2868.jpg"
+    },
+    "spots": [
+      {
+        "x": 1242,
+        "y": 1925
+      },
+      {
+        "x": 452,
+        "y": 2081
+      },
+      {
+        "x": 440,
+        "y": 2341
+      },
+      {
+        "x": 833,
+        "y": 2334
+      },
+      {
+        "x": 833,
+        "y": 2634
+      }
+    ],
+    "hintUrl": "images/010/hint.jpg"
   }
 ]
