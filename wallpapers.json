@@ -362,5 +362,41 @@
     ],
     "hintUrl": "images/011/hint.jpg",
     "sec": 60
+  },
+  {
+    "id": "012",
+    "title": "I know(Kor)",
+    "category": "Typography",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/012/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/012/1179x2556.jpg",
+      "large": "images/012/1320x2868.jpg",
+      "ipad": "images/012/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 256,
+        "y": 988
+      },
+      {
+        "x": 978,
+        "y": 1307
+      },
+      {
+        "x": 452,
+        "y": 1736
+      },
+      {
+        "x": 72,
+        "y": 2409
+      },
+      {
+        "x": 1111,
+        "y": 2711
+      }
+    ],
+    "hintUrl": "images/012/hint.jpg",
+    "sec": 29
   }
 ]
