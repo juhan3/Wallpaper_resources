@@ -4,5 +4,11 @@
     "name": "Juhan",
     "profileImage": "images/designers/jane.jpg",
     "bio": "Doodle-style illustrator"
+  },
+  {
+    "id": "designer_2",
+    "name": "hajun",
+    "profileImage": "images/designers/2.jpg",
+    "bio": "Hi, I love typographic design."
   }
 ]
