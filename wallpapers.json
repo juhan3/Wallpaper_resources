@@ -542,5 +542,41 @@
     ],
     "hintUrl": "images/016/hint.jpg",
     "sec": 40
+  },
+  {
+    "id": "017",
+    "title": "Travelling circus troupe",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/017/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/017/1179x2556.jpg",
+      "large": "images/017/1320x2868.jpg",
+      "ipad": "images/017/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 252,
+        "y": 721
+      },
+      {
+        "x": 1065,
+        "y": 928
+      },
+      {
+        "x": 639,
+        "y": 2256
+      },
+      {
+        "x": 916,
+        "y": 2125
+      },
+      {
+        "x": 479,
+        "y": 2298
+      }
+    ],
+    "hintUrl": "images/017/hint.jpg",
+    "sec": 29
   }
 ]
