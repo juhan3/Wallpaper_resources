@@ -650,5 +650,41 @@
     ],
     "hintUrl": "images/019/hint.jpg",
     "sec": 38
+  },
+  {
+    "id": "020",
+    "title": "A picnic in the woods",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/020/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/020/1179x2556.jpg",
+      "large": "images/020/1320x2868.jpg",
+      "ipad": "images/020/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 691,
+        "y": 1133
+      },
+      {
+        "x": 369,
+        "y": 1344
+      },
+      {
+        "x": 820,
+        "y": 1821
+      },
+      {
+        "x": 348,
+        "y": 2182
+      },
+      {
+        "x": 616,
+        "y": 747
+      }
+    ],
+    "hintUrl": "images/020/hint.jpg",
+    "sec": 29
   }
 ]
