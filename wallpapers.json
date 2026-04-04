@@ -1142,5 +1142,40 @@
       }
     ],
     "hintUrl": "images/033/hint.jpg"
+  },
+  {
+    "id": "034",
+    "title": "Owl Library",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/034/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/034/1179x2556.jpg",
+      "large": "images/034/1320x2868.jpg",
+      "ipad": "images/034/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 337,
+        "y": 144
+      },
+      {
+        "x": 867,
+        "y": 766
+      },
+      {
+        "x": 790,
+        "y": 1944
+      },
+      {
+        "x": 741,
+        "y": 1550
+      },
+      {
+        "x": 1150,
+        "y": 2604
+      }
+    ],
+    "hintUrl": "images/034/hint.jpg"
   }
 ]
