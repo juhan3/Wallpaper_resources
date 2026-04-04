@@ -757,5 +757,40 @@
       }
     ],
     "hintUrl": "images/022/hint.jpg"
+  },
+  {
+    "id": "023",
+    "title": "spacecraft",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/023/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/023/1179x2556.jpg",
+      "large": "images/023/1320x2868.jpg",
+      "ipad": "images/023/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 426,
+        "y": 1092
+      },
+      {
+        "x": 1071,
+        "y": 174
+      },
+      {
+        "x": 531,
+        "y": 993
+      },
+      {
+        "x": 1113,
+        "y": 2465
+      },
+      {
+        "x": 378,
+        "y": 1485
+      }
+    ],
+    "hintUrl": "images/023/hint.jpg"
   }
 ]
