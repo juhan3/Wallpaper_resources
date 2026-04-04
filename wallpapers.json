@@ -1002,5 +1002,40 @@
       }
     ],
     "hintUrl": "images/029/hint.jpg"
+  },
+  {
+    "id": "030",
+    "title": "Mushroom Village",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/030/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/030/1179x2556.jpg",
+      "large": "images/030/1320x2868.jpg",
+      "ipad": "images/030/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 586,
+        "y": 993
+      },
+      {
+        "x": 70,
+        "y": 1653
+      },
+      {
+        "x": 1178,
+        "y": 1951
+      },
+      {
+        "x": 804,
+        "y": 2109
+      },
+      {
+        "x": 1148,
+        "y": 2773
+      }
+    ],
+    "hintUrl": "images/030/hint.jpg"
   }
 ]
