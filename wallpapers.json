@@ -1212,5 +1212,75 @@
       }
     ],
     "hintUrl": "images/035/hint.jpg"
+  },
+  {
+    "id": "036",
+    "title": "Time and the Giant",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/036/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/036/1179x2556.jpg",
+      "large": "images/036/1320x2868.jpg",
+      "ipad": "images/036/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1178,
+        "y": 786
+      },
+      {
+        "x": 382,
+        "y": 1380
+      },
+      {
+        "x": 626,
+        "y": 2245
+      },
+      {
+        "x": 908,
+        "y": 1979
+      },
+      {
+        "x": 212,
+        "y": 1339
+      }
+    ],
+    "hintUrl": "images/036/hint.jpg"
+  },
+  {
+    "id": "037",
+    "title": "Catching butterflies",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/037/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/037/1179x2556.jpg",
+      "large": "images/037/1320x2868.jpg",
+      "ipad": "images/037/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1014,
+        "y": 1671
+      },
+      {
+        "x": 433,
+        "y": 857
+      },
+      {
+        "x": 471,
+        "y": 2416
+      },
+      {
+        "x": 619,
+        "y": 2115
+      },
+      {
+        "x": 345,
+        "y": 1647
+      }
+    ],
+    "hintUrl": "images/037/hint.jpg"
   }
 ]
