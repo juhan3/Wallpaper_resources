@@ -967,5 +967,40 @@
       }
     ],
     "hintUrl": "images/028/hint.jpg"
+  },
+  {
+    "id": "029",
+    "title": "Thunderstorm",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/029/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/029/1179x2556.jpg",
+      "large": "images/029/1320x2868.jpg",
+      "ipad": "images/029/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 400,
+        "y": 1530
+      },
+      {
+        "x": 925,
+        "y": 1658
+      },
+      {
+        "x": 120,
+        "y": 299
+      },
+      {
+        "x": 855,
+        "y": 1862
+      },
+      {
+        "x": 187,
+        "y": 1771
+      }
+    ],
+    "hintUrl": "images/029/hint.jpg"
   }
 ]
