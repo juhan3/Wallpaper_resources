@@ -612,6 +612,43 @@
         "y": 1980
       }
     ],
-    "hintUrl": "images/018/hint.jpg"
+    "hintUrl": "images/018/hint.jpg",
+    "sec": 40
+  },
+  {
+    "id": "019",
+    "title": "Forest Festival",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/019/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/019/1179x2556.jpg",
+      "large": "images/019/1320x2868.jpg",
+      "ipad": "images/019/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 765,
+        "y": 574
+      },
+      {
+        "x": 1133,
+        "y": 345
+      },
+      {
+        "x": 453,
+        "y": 1313
+      },
+      {
+        "x": 962,
+        "y": 2093
+      },
+      {
+        "x": 229,
+        "y": 2471
+      }
+    ],
+    "hintUrl": "images/019/hint.jpg",
+    "sec": 38
   }
 ]
