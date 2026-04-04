@@ -897,5 +897,40 @@
       }
     ],
     "hintUrl": "images/026/hint.jpg"
+  },
+  {
+    "id": "027",
+    "title": "Coffee Dinosaur",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/027/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/027/1179x2556.jpg",
+      "large": "images/027/1320x2868.jpg",
+      "ipad": "images/027/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 400,
+        "y": 1975
+      },
+      {
+        "x": 759,
+        "y": 981
+      },
+      {
+        "x": 606,
+        "y": 1361
+      },
+      {
+        "x": 990,
+        "y": 2465
+      },
+      {
+        "x": 868,
+        "y": 751
+      }
+    ],
+    "hintUrl": "images/027/hint.jpg"
   }
 ]
