@@ -10,5 +10,11 @@
     "name": "hajun",
     "profileImage": "images/designers/2.jpg",
     "bio": "Hi, I love typographic design."
+  },
+  {
+    "id": "designer_3",
+    "name": "boro",
+    "profileImage": "",
+    "bio": "images/designers/robo.jpg"
   }
 ]
