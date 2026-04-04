@@ -932,5 +932,40 @@
       }
     ],
     "hintUrl": "images/027/hint.jpg"
+  },
+  {
+    "id": "028",
+    "title": "Robot factory",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/028/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/028/1179x2556.jpg",
+      "large": "images/028/1320x2868.jpg",
+      "ipad": "images/028/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1131,
+        "y": 150
+      },
+      {
+        "x": 471,
+        "y": 306
+      },
+      {
+        "x": 714,
+        "y": 1263
+      },
+      {
+        "x": 596,
+        "y": 2447
+      },
+      {
+        "x": 1055,
+        "y": 2120
+      }
+    ],
+    "hintUrl": "images/028/hint.jpg"
   }
 ]
