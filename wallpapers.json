@@ -1072,5 +1072,40 @@
       }
     ],
     "hintUrl": "images/031/hint.jpg"
+  },
+  {
+    "id": "032",
+    "title": "The Gentleman Cat",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/032/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/032/1179x2556.jpg",
+      "large": "images/032/1320x2868.jpg",
+      "ipad": "images/032/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 660,
+        "y": 1880
+      },
+      {
+        "x": 702,
+        "y": 2560
+      },
+      {
+        "x": 660,
+        "y": 1480
+      },
+      {
+        "x": 119,
+        "y": 974
+      },
+      {
+        "x": 217,
+        "y": 332
+      }
+    ],
+    "hintUrl": "images/032/hint.jpg"
   }
 ]
