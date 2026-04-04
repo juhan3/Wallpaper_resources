@@ -1177,5 +1177,40 @@
       }
     ],
     "hintUrl": "images/034/hint.jpg"
+  },
+  {
+    "id": "035",
+    "title": "Pancake Chef",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/035/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/035/1179x2556.jpg",
+      "large": "images/035/1320x2868.jpg",
+      "ipad": "images/035/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 497,
+        "y": 408
+      },
+      {
+        "x": 1131,
+        "y": 686
+      },
+      {
+        "x": 587,
+        "y": 2522
+      },
+      {
+        "x": 110,
+        "y": 1034
+      },
+      {
+        "x": 1089,
+        "y": 41
+      }
+    ],
+    "hintUrl": "images/035/hint.jpg"
   }
 ]
