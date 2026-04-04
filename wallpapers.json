@@ -722,5 +722,40 @@
     ],
     "hintUrl": "images/021/hint.jpg",
     "sec": 40
+  },
+  {
+    "id": "022",
+    "title": "Monster has appeared!",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/022/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/022/1179x2556.jpg",
+      "large": "images/022/1320x2868.jpg",
+      "ipad": "images/022/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 571,
+        "y": 1812
+      },
+      {
+        "x": 1124,
+        "y": 1615
+      },
+      {
+        "x": 928,
+        "y": 451
+      },
+      {
+        "x": 382,
+        "y": 270
+      },
+      {
+        "x": 837,
+        "y": 636
+      }
+    ],
+    "hintUrl": "images/022/hint.jpg"
   }
 ]
