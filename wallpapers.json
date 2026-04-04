@@ -862,5 +862,40 @@
       }
     ],
     "hintUrl": "images/025/hint.jpg"
+  },
+  {
+    "id": "026",
+    "title": "dog on a voyage",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/026/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/026/1179x2556.jpg",
+      "large": "images/026/1320x2868.jpg",
+      "ipad": "images/026/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 625,
+        "y": 43
+      },
+      {
+        "x": 161,
+        "y": 725
+      },
+      {
+        "x": 128,
+        "y": 1203
+      },
+      {
+        "x": 786,
+        "y": 2506
+      },
+      {
+        "x": 141,
+        "y": 1910
+      }
+    ],
+    "hintUrl": "images/026/hint.jpg"
   }
 ]
