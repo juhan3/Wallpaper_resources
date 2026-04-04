@@ -792,5 +792,40 @@
       }
     ],
     "hintUrl": "images/023/hint.jpg"
+  },
+  {
+    "id": "024",
+    "title": "Fireworks Festival",
+    "category": "Night",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/024/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/024/1179x2556.jpg",
+      "large": "images/024/1320x2868.jpg",
+      "ipad": "images/024/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 660,
+        "y": 1069
+      },
+      {
+        "x": 151,
+        "y": 2040
+      },
+      {
+        "x": 657,
+        "y": 2817
+      },
+      {
+        "x": 1207,
+        "y": 1514
+      },
+      {
+        "x": 942,
+        "y": 1752
+      }
+    ],
+    "hintUrl": "images/024/hint.jpg"
   }
 ]
