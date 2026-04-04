@@ -827,5 +827,40 @@
       }
     ],
     "hintUrl": "images/024/hint.jpg"
+  },
+  {
+    "id": "025",
+    "title": "Rainy Day Dog Meet-up",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/025/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/025/1179x2556.jpg",
+      "large": "images/025/1320x2868.jpg",
+      "ipad": "images/025/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 315,
+        "y": 632
+      },
+      {
+        "x": 1225,
+        "y": 754
+      },
+      {
+        "x": 334,
+        "y": 1508
+      },
+      {
+        "x": 220,
+        "y": 2679
+      },
+      {
+        "x": 1113,
+        "y": 2007
+      }
+    ],
+    "hintUrl": "images/025/hint.jpg"
   }
 ]
