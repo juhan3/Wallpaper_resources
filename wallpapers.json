@@ -506,5 +506,41 @@
     ],
     "hintUrl": "images/015/hint.jpg",
     "sec": 29
+  },
+  {
+    "id": "016",
+    "title": "The City of Water",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/016/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/016/1179x2556.jpg",
+      "large": "images/016/1320x2868.jpg",
+      "ipad": "images/016/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1117,
+        "y": 749
+      },
+      {
+        "x": 216,
+        "y": 1982
+      },
+      {
+        "x": 207,
+        "y": 2500
+      },
+      {
+        "x": 951,
+        "y": 103
+      },
+      {
+        "x": 189,
+        "y": 958
+      }
+    ],
+    "hintUrl": "images/016/hint.jpg",
+    "sec": 40
   }
 ]
