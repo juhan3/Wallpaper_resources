@@ -686,5 +686,41 @@
     ],
     "hintUrl": "images/020/hint.jpg",
     "sec": 29
+  },
+  {
+    "id": "021",
+    "title": "Animal Village",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/021/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/021/1179x2556.jpg",
+      "large": "images/021/1320x2868.jpg",
+      "ipad": "images/021/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 760,
+        "y": 250
+      },
+      {
+        "x": 949,
+        "y": 1797
+      },
+      {
+        "x": 1084,
+        "y": 2629
+      },
+      {
+        "x": 242,
+        "y": 489
+      },
+      {
+        "x": 1089,
+        "y": 900
+      }
+    ],
+    "hintUrl": "images/021/hint.jpg",
+    "sec": 40
   }
 ]
