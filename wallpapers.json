@@ -1107,5 +1107,40 @@
       }
     ],
     "hintUrl": "images/032/hint.jpg"
+  },
+  {
+    "id": "033",
+    "title": "Dinosaur Tea Time",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/033/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/033/1179x2556.jpg",
+      "large": "images/033/1320x2868.jpg",
+      "ipad": "images/033/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1186,
+        "y": 2608
+      },
+      {
+        "x": 471,
+        "y": 2213
+      },
+      {
+        "x": 1172,
+        "y": 483
+      },
+      {
+        "x": 936,
+        "y": 1188
+      },
+      {
+        "x": 1225,
+        "y": 2334
+      }
+    ],
+    "hintUrl": "images/033/hint.jpg"
   }
 ]
