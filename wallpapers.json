@@ -1562,5 +1562,40 @@
       }
     ],
     "hintUrl": "images/045/hint.jpg"
+  },
+  {
+    "id": "056",
+    "title": "Tea Party",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/056/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/056/1179x2556.jpg",
+      "large": "images/056/1320x2868.jpg",
+      "ipad": "images/056/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 69,
+        "y": 983
+      },
+      {
+        "x": 428,
+        "y": 1243
+      },
+      {
+        "x": 325,
+        "y": 1999
+      },
+      {
+        "x": 55,
+        "y": 2373
+      },
+      {
+        "x": 1058,
+        "y": 2024
+      }
+    ],
+    "hintUrl": "images/056/hint.jpg"
   }
 ]
