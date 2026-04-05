@@ -1912,5 +1912,40 @@
       }
     ],
     "hintUrl": "images/055/hint.jpg"
+  },
+  {
+    "id": "056",
+    "title": "Nursery",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/056/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/056/1179x2556.jpg",
+      "large": "images/056/1320x2868.jpg",
+      "ipad": "images/056/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 979,
+        "y": 608
+      },
+      {
+        "x": 79,
+        "y": 788
+      },
+      {
+        "x": 909,
+        "y": 1744
+      },
+      {
+        "x": 218,
+        "y": 2345
+      },
+      {
+        "x": 500,
+        "y": 2053
+      }
+    ],
+    "hintUrl": "images/056/hint.jpg"
   }
 ]
