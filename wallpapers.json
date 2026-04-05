@@ -2474,5 +2474,40 @@
       }
     ],
     "hintUrl": "images/071/hint.jpg"
+  },
+  {
+    "id": "072",
+    "title": "Our World",
+    "category": "People",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/072/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/072/1179x2556.jpg",
+      "large": "images/072/1320x2868.jpg",
+      "ipad": "images/072/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 325,
+        "y": 1532
+      },
+      {
+        "x": 281,
+        "y": 882
+      },
+      {
+        "x": 630,
+        "y": 1861
+      },
+      {
+        "x": 963,
+        "y": 1240
+      },
+      {
+        "x": 909,
+        "y": 2392
+      }
+    ],
+    "hintUrl": "images/072/hint.jpg"
   }
 ]
