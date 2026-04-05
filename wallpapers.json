@@ -2369,5 +2369,40 @@
       }
     ],
     "hintUrl": "images/068/hint.jpg"
+  },
+  {
+    "id": "069",
+    "title": "Night-time party",
+    "category": "Night",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/069/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/069/1179x2556.jpg",
+      "large": "images/069/1320x2868.jpg",
+      "ipad": "images/069/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1195,
+        "y": 2054
+      },
+      {
+        "x": 134,
+        "y": 1274
+      },
+      {
+        "x": 261,
+        "y": 2079
+      },
+      {
+        "x": 966,
+        "y": 1067
+      },
+      {
+        "x": 508,
+        "y": 2312
+      }
+    ],
+    "hintUrl": "images/069/hint.jpg"
   }
 ]
