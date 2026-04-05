@@ -1564,15 +1564,15 @@
     "hintUrl": "images/045/hint.jpg"
   },
   {
-    "id": "056",
+    "id": "046",
     "title": "Tea Party",
     "category": "Animal",
     "designerId": "designer_3",
-    "thumbnailUrl": "images/056/thumb.jpg",
+    "thumbnailUrl": "images/046/thumb.jpg",
     "imageUrl": {
-      "standard": "images/056/1179x2556.jpg",
-      "large": "images/056/1320x2868.jpg",
-      "ipad": "images/056/2048x2732.jpg"
+      "standard": "images/046/1179x2556.jpg",
+      "large": "images/046/1320x2868.jpg",
+      "ipad": "images/046/2048x2732.jpg"
     },
     "spots": [
       {
@@ -1596,6 +1596,6 @@
         "y": 2024
       }
     ],
-    "hintUrl": "images/056/hint.jpg"
+    "hintUrl": "images/046/hint.jpg"
   }
 ]
