@@ -1387,5 +1387,40 @@
       }
     ],
     "hintUrl": "images/040/hint.jpg"
+  },
+  {
+    "id": "041",
+    "title": "People Who Make Stars",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/041/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/041/1179x2556.jpg",
+      "large": "images/041/1320x2868.jpg",
+      "ipad": "images/041/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 773,
+        "y": 127
+      },
+      {
+        "x": 822,
+        "y": 2674
+      },
+      {
+        "x": 1061,
+        "y": 1396
+      },
+      {
+        "x": 396,
+        "y": 1191
+      },
+      {
+        "x": 381,
+        "y": 2459
+      }
+    ],
+    "hintUrl": "images/041/hint.jpg"
   }
 ]
