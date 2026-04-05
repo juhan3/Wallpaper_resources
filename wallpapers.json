@@ -2089,5 +2089,41 @@
     ],
     "hintUrl": "images/060/hint.jpg",
     "date": "2026-04-07"
+  },
+  {
+    "id": "061",
+    "title": "A house with a bathroom",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/061/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/061/1179x2556.jpg",
+      "large": "images/061/1320x2868.jpg",
+      "ipad": "images/061/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 228,
+        "y": 466
+      },
+      {
+        "x": 712,
+        "y": 590
+      },
+      {
+        "x": 898,
+        "y": 1413
+      },
+      {
+        "x": 572,
+        "y": 1789
+      },
+      {
+        "x": 1035,
+        "y": 2270
+      }
+    ],
+    "hintUrl": "images/061/hint.jpg",
+    "date": "2026-04-08"
   }
 ]
