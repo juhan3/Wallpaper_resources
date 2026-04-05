@@ -2233,5 +2233,40 @@
     ],
     "hintUrl": "images/064/hint.jpg",
     "date": "2026-04-11"
+  },
+  {
+    "id": "065",
+    "title": "We’re having a great time",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/065/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/065/1179x2556.jpg",
+      "large": "images/065/1320x2868.jpg",
+      "ipad": "images/065/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1092,
+        "y": 601
+      },
+      {
+        "x": 318,
+        "y": 1716
+      },
+      {
+        "x": 503,
+        "y": 2108
+      },
+      {
+        "x": 994,
+        "y": 2601
+      },
+      {
+        "x": 975,
+        "y": 1854
+      }
+    ],
+    "hintUrl": "images/065/hint.jpg"
   }
 ]
