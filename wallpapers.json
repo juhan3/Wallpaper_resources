@@ -1667,5 +1667,40 @@
       }
     ],
     "hintUrl": "images/048/hint.jpg"
+  },
+  {
+    "id": "049",
+    "title": "Coffee Break",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/049/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/049/1179x2556.jpg",
+      "large": "images/049/1320x2868.jpg",
+      "ipad": "images/049/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 577,
+        "y": 958
+      },
+      {
+        "x": 1237,
+        "y": 1144
+      },
+      {
+        "x": 277,
+        "y": 1293
+      },
+      {
+        "x": 145,
+        "y": 1787
+      },
+      {
+        "x": 804,
+        "y": 1909
+      }
+    ],
+    "hintUrl": "images/049/hint.jpg"
   }
 ]
