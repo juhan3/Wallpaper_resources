@@ -2439,5 +2439,40 @@
       }
     ],
     "hintUrl": "images/070/hint.jpg"
+  },
+  {
+    "id": "071",
+    "title": "Late-night restaurant",
+    "category": "Night",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/071/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/071/1179x2556.jpg",
+      "large": "images/071/1320x2868.jpg",
+      "ipad": "images/071/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1102,
+        "y": 1381
+      },
+      {
+        "x": 502,
+        "y": 2057
+      },
+      {
+        "x": 723,
+        "y": 1309
+      },
+      {
+        "x": 471,
+        "y": 781
+      },
+      {
+        "x": 774,
+        "y": 2666
+      }
+    ],
+    "hintUrl": "images/071/hint.jpg"
   }
 ]
