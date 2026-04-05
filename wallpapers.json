@@ -1947,5 +1947,40 @@
       }
     ],
     "hintUrl": "images/056/hint.jpg"
+  },
+  {
+    "id": "057",
+    "title": "Jungle Cat House",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/057/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/057/1179x2556.jpg",
+      "large": "images/057/1320x2868.jpg",
+      "ipad": "images/057/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 362,
+        "y": 498
+      },
+      {
+        "x": 55,
+        "y": 1336
+      },
+      {
+        "x": 884,
+        "y": 1550
+      },
+      {
+        "x": 1122,
+        "y": 1715
+      },
+      {
+        "x": 348,
+        "y": 1978
+      }
+    ],
+    "hintUrl": "images/057/hint.jpg"
   }
 ]
