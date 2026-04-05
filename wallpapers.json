@@ -2197,5 +2197,41 @@
     ],
     "hintUrl": "images/063/hint.jpg",
     "date": "2026-04-10"
+  },
+  {
+    "id": "064",
+    "title": "Our Very Own Festival",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/064/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/064/1179x2556.jpg",
+      "large": "images/064/1320x2868.jpg",
+      "ipad": "images/064/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 961,
+        "y": 443
+      },
+      {
+        "x": 86,
+        "y": 1230
+      },
+      {
+        "x": 723,
+        "y": 1344
+      },
+      {
+        "x": 920,
+        "y": 1838
+      },
+      {
+        "x": 368,
+        "y": 2290
+      }
+    ],
+    "hintUrl": "images/064/hint.jpg",
+    "date": "2026-04-11"
   }
 ]
