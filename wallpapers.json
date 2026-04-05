@@ -2,7 +2,7 @@
   {
     "id": "002",
     "title": "Painting",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_1",
     "thumbnailUrl": "images/002/thumb.jpg",
     "imageUrl": {
@@ -38,7 +38,7 @@
   {
     "id": "003",
     "title": "Pumpkin",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_1",
     "thumbnailUrl": "images/003/thumb.jpg",
     "imageUrl": {
@@ -74,7 +74,7 @@
   {
     "id": "004",
     "title": "Birds in the typhoon",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_1",
     "thumbnailUrl": "images/004/thumb.jpg",
     "imageUrl": {
@@ -110,7 +110,7 @@
   {
     "id": "005",
     "title": "Cat and Ducks",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_1",
     "thumbnailUrl": "images/005/thumb.jpg",
     "imageUrl": {
@@ -146,7 +146,7 @@
   {
     "id": "006",
     "title": "Tissue box",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_1",
     "thumbnailUrl": "images/006/thumb.jpg",
     "imageUrl": {
@@ -182,7 +182,7 @@
   {
     "id": "007",
     "title": "paper cup",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_1",
     "thumbnailUrl": "images/007/thumb.jpg",
     "imageUrl": {
@@ -218,7 +218,7 @@
   {
     "id": "008",
     "title": "Pig toy box",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_1",
     "thumbnailUrl": "images/008/thumb.jpg",
     "imageUrl": {
@@ -254,7 +254,7 @@
   {
     "id": "009",
     "title": "Canned",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_1",
     "thumbnailUrl": "images/009/thumb.jpg",
     "imageUrl": {
@@ -290,7 +290,7 @@
   {
     "id": "010",
     "title": "Jungle",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_1",
     "thumbnailUrl": "images/010/thumb.jpg",
     "imageUrl": {
@@ -326,7 +326,7 @@
   {
     "id": "011",
     "title": "School",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_1",
     "thumbnailUrl": "images/011/thumb.jpg",
     "imageUrl": {
@@ -434,7 +434,7 @@
   {
     "id": "014",
     "title": "Plant box",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_1",
     "thumbnailUrl": "images/014/thumb.jpg",
     "imageUrl": {
@@ -470,7 +470,7 @@
   {
     "id": "015",
     "title": "Concert",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/015/thumb.jpg",
     "imageUrl": {
@@ -506,7 +506,7 @@
   {
     "id": "016",
     "title": "The City of Water",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/016/thumb.jpg",
     "imageUrl": {
@@ -542,7 +542,7 @@
   {
     "id": "017",
     "title": "Travelling circus troupe",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/017/thumb.jpg",
     "imageUrl": {
@@ -578,7 +578,7 @@
   {
     "id": "018",
     "title": "Space Station",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/018/thumb.jpg",
     "imageUrl": {
@@ -757,7 +757,7 @@
   {
     "id": "023",
     "title": "spacecraft",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/023/thumb.jpg",
     "imageUrl": {
@@ -932,7 +932,7 @@
   {
     "id": "028",
     "title": "Robot factory",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/028/thumb.jpg",
     "imageUrl": {
@@ -967,7 +967,7 @@
   {
     "id": "029",
     "title": "Thunderstorm",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/029/thumb.jpg",
     "imageUrl": {
@@ -1037,7 +1037,7 @@
   {
     "id": "031",
     "title": "Rainbow Volcano",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/031/thumb.jpg",
     "imageUrl": {
@@ -1107,7 +1107,7 @@
   {
     "id": "033",
     "title": "Dinosaur Tea Time",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/033/thumb.jpg",
     "imageUrl": {
@@ -1212,7 +1212,7 @@
   {
     "id": "036",
     "title": "Time and the Giant",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/036/thumb.jpg",
     "imageUrl": {
@@ -1247,7 +1247,7 @@
   {
     "id": "037",
     "title": "Catching butterflies",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/037/thumb.jpg",
     "imageUrl": {
@@ -1282,7 +1282,7 @@
   {
     "id": "038",
     "title": "The Great Tower",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/038/thumb.jpg",
     "imageUrl": {
@@ -1387,7 +1387,7 @@
   {
     "id": "041",
     "title": "People Who Make Stars",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/041/thumb.jpg",
     "imageUrl": {
@@ -1422,7 +1422,7 @@
   {
     "id": "042",
     "title": "Food falls from the sky",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/042/thumb.jpg",
     "imageUrl": {
@@ -1457,7 +1457,7 @@
   {
     "id": "043",
     "title": "orchard",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/043/thumb.jpg",
     "imageUrl": {
@@ -1597,7 +1597,7 @@
   {
     "id": "047",
     "title": "Bookworm",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/047/thumb.jpg",
     "imageUrl": {
@@ -1632,7 +1632,7 @@
   {
     "id": "048",
     "title": "Time production",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/048/thumb.jpg",
     "imageUrl": {
@@ -1667,7 +1667,7 @@
   {
     "id": "049",
     "title": "Coffee Break",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/049/thumb.jpg",
     "imageUrl": {
@@ -1702,7 +1702,7 @@
   {
     "id": "050",
     "title": "Let’s make it bloom",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/050/thumb.jpg",
     "imageUrl": {
@@ -1772,7 +1772,7 @@
   {
     "id": "052",
     "title": "Cafés and music",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/052/thumb.jpg",
     "imageUrl": {
@@ -1807,7 +1807,7 @@
   {
     "id": "053",
     "title": "Time Travellers' Headquarters",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/053/thumb.jpg",
     "imageUrl": {
@@ -1842,7 +1842,7 @@
   {
     "id": "054",
     "title": "The owner is the cat on the ground floor",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/054/thumb.jpg",
     "imageUrl": {
@@ -1877,7 +1877,7 @@
   {
     "id": "055",
     "title": "The Ghost Treasure Ship",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/055/thumb.jpg",
     "imageUrl": {
@@ -1912,7 +1912,7 @@
   {
     "id": "056",
     "title": "Nursery",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/056/thumb.jpg",
     "imageUrl": {
@@ -2125,7 +2125,7 @@
   {
     "id": "062",
     "title": "The Home of the Future",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/062/thumb.jpg",
     "imageUrl": {
@@ -2161,7 +2161,7 @@
   {
     "id": "063",
     "title": "Laundrette",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/063/thumb.jpg",
     "imageUrl": {
@@ -2197,7 +2197,7 @@
   {
     "id": "064",
     "title": "Our Very Own Festival",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/064/thumb.jpg",
     "imageUrl": {
@@ -2233,7 +2233,7 @@
   {
     "id": "065",
     "title": "We’re having a great time",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/065/thumb.jpg",
     "imageUrl": {
@@ -2268,7 +2268,7 @@
   {
     "id": "066",
     "title": "Happy Villa",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/066/thumb.jpg",
     "imageUrl": {
@@ -2303,7 +2303,7 @@
   {
     "id": "067",
     "title": "The Chef's House",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/067/thumb.jpg",
     "imageUrl": {
@@ -2338,7 +2338,7 @@
   {
     "id": "068",
     "title": "Art Café",
-    "category": "Tiny",
+    "category": "People",
     "designerId": "designer_3",
     "thumbnailUrl": "images/068/thumb.jpg",
     "imageUrl": {
