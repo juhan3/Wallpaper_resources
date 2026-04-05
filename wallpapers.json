@@ -1807,5 +1807,40 @@
       }
     ],
     "hintUrl": "images/052/hint.jpg"
+  },
+  {
+    "id": "053",
+    "title": "Time Travellers' Headquarters",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/053/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/053/1179x2556.jpg",
+      "large": "images/053/1320x2868.jpg",
+      "ipad": "images/053/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1179,
+        "y": 744
+      },
+      {
+        "x": 1090,
+        "y": 1261
+      },
+      {
+        "x": 115,
+        "y": 2007
+      },
+      {
+        "x": 530,
+        "y": 1513
+      },
+      {
+        "x": 144,
+        "y": 183
+      }
+    ],
+    "hintUrl": "images/053/hint.jpg"
   }
 ]
