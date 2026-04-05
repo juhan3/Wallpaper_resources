@@ -2053,5 +2053,41 @@
     ],
     "hintUrl": "images/059/hint.jpg",
     "date": "2026-04-06"
+  },
+  {
+    "id": "060",
+    "title": "Korean House",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/060/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/060/1179x2556.jpg",
+      "large": "images/060/1320x2868.jpg",
+      "ipad": "images/060/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 395,
+        "y": 844
+      },
+      {
+        "x": 887,
+        "y": 393
+      },
+      {
+        "x": 616,
+        "y": 1196
+      },
+      {
+        "x": 887,
+        "y": 1980
+      },
+      {
+        "x": 946,
+        "y": 2287
+      }
+    ],
+    "hintUrl": "images/060/hint.jpg",
+    "date": "2026-04-07"
   }
 ]
