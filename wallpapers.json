@@ -2404,5 +2404,40 @@
       }
     ],
     "hintUrl": "images/069/hint.jpg"
+  },
+  {
+    "id": "070",
+    "title": "It tastes better at night!",
+    "category": "Night",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/070/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/070/1179x2556.jpg",
+      "large": "images/070/1320x2868.jpg",
+      "ipad": "images/070/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 799,
+        "y": 2171
+      },
+      {
+        "x": 1019,
+        "y": 1060
+      },
+      {
+        "x": 329,
+        "y": 2292
+      },
+      {
+        "x": 162,
+        "y": 906
+      },
+      {
+        "x": 413,
+        "y": 1462
+      }
+    ],
+    "hintUrl": "images/070/hint.jpg"
   }
 ]
