@@ -2268,5 +2268,40 @@
       }
     ],
     "hintUrl": "images/065/hint.jpg"
+  },
+  {
+    "id": "066",
+    "title": "Happy Villa",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/066/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/066/1179x2556.jpg",
+      "large": "images/066/1320x2868.jpg",
+      "ipad": "images/066/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 318,
+        "y": 2239
+      },
+      {
+        "x": 901,
+        "y": 1767
+      },
+      {
+        "x": 425,
+        "y": 1295
+      },
+      {
+        "x": 141,
+        "y": 1518
+      },
+      {
+        "x": 500,
+        "y": 648
+      }
+    ],
+    "hintUrl": "images/066/hint.jpg"
   }
 ]
