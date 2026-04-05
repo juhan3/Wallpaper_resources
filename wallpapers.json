@@ -1597,5 +1597,40 @@
       }
     ],
     "hintUrl": "images/046/hint.jpg"
+  },
+  {
+    "id": "047",
+    "title": "Bookworm",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/047/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/047/1179x2556.jpg",
+      "large": "images/047/1320x2868.jpg",
+      "ipad": "images/047/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 397,
+        "y": 193
+      },
+      {
+        "x": 338,
+        "y": 1385
+      },
+      {
+        "x": 859,
+        "y": 1867
+      },
+      {
+        "x": 495,
+        "y": 2515
+      },
+      {
+        "x": 577,
+        "y": 2785
+      }
+    ],
+    "hintUrl": "images/047/hint.jpg"
   }
 ]
