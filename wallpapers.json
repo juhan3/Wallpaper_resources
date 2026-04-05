@@ -2509,5 +2509,40 @@
       }
     ],
     "hintUrl": "images/072/hint.jpg"
+  },
+  {
+    "id": "073",
+    "title": "Come this way!",
+    "category": "People",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/073/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/073/1179x2556.jpg",
+      "large": "images/073/1320x2868.jpg",
+      "ipad": "images/073/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 937,
+        "y": 902
+      },
+      {
+        "x": 105,
+        "y": 1718
+      },
+      {
+        "x": 1228,
+        "y": 1381
+      },
+      {
+        "x": 1065,
+        "y": 1624
+      },
+      {
+        "x": 553,
+        "y": 2438
+      }
+    ],
+    "hintUrl": "images/073/hint.jpg"
   }
 ]
