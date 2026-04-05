@@ -1702,5 +1702,40 @@
       }
     ],
     "hintUrl": "images/049/hint.jpg"
+  },
+  {
+    "id": "050",
+    "title": "Let’s make it bloom",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/050/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/050/1179x2556.jpg",
+      "large": "images/050/1320x2868.jpg",
+      "ipad": "images/050/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 555,
+        "y": 2026
+      },
+      {
+        "x": 550,
+        "y": 927
+      },
+      {
+        "x": 998,
+        "y": 1550
+      },
+      {
+        "x": 945,
+        "y": 2395
+      },
+      {
+        "x": 1062,
+        "y": 327
+      }
+    ],
+    "hintUrl": "images/050/hint.jpg"
   }
 ]
