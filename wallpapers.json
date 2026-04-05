@@ -2017,5 +2017,41 @@
       }
     ],
     "hintUrl": "images/058/hint.jpg"
+  },
+  {
+    "id": "059",
+    "title": "Frog House",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/059/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/059/1179x2556.jpg",
+      "large": "images/059/1320x2868.jpg",
+      "ipad": "images/059/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 177,
+        "y": 802
+      },
+      {
+        "x": 350,
+        "y": 76
+      },
+      {
+        "x": 987,
+        "y": 1403
+      },
+      {
+        "x": 422,
+        "y": 2368
+      },
+      {
+        "x": 273,
+        "y": 2486
+      }
+    ],
+    "hintUrl": "images/059/hint.jpg",
+    "date": "2026-04-06"
   }
 ]
