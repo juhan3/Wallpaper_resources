@@ -1492,5 +1492,75 @@
       }
     ],
     "hintUrl": "images/043/hint.jpg"
+  },
+  {
+    "id": "044",
+    "title": "The Cat Meeting",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/044/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/044/1179x2556.jpg",
+      "large": "images/044/1320x2868.jpg",
+      "ipad": "images/044/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1157,
+        "y": 161
+      },
+      {
+        "x": 601,
+        "y": 1345
+      },
+      {
+        "x": 159,
+        "y": 1289
+      },
+      {
+        "x": 512,
+        "y": 2035
+      },
+      {
+        "x": 374,
+        "y": 2448
+      }
+    ],
+    "hintUrl": "images/044/hint.jpg"
+  },
+  {
+    "id": "045",
+    "title": "Sheep Farm",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/045/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/045/1179x2556.jpg",
+      "large": "images/045/1320x2868.jpg",
+      "ipad": "images/045/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 895,
+        "y": 646
+      },
+      {
+        "x": 461,
+        "y": 2385
+      },
+      {
+        "x": 856,
+        "y": 1002
+      },
+      {
+        "x": 61,
+        "y": 1127
+      },
+      {
+        "x": 413,
+        "y": 446
+      }
+    ],
+    "hintUrl": "images/045/hint.jpg"
   }
 ]
