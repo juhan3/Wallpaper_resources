@@ -1422,5 +1422,40 @@
       }
     ],
     "hintUrl": "images/041/hint.jpg"
+  },
+  {
+    "id": "042",
+    "title": "Food falls from the sky",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/042/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/042/1179x2556.jpg",
+      "large": "images/042/1320x2868.jpg",
+      "ipad": "images/042/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 449,
+        "y": 949
+      },
+      {
+        "x": 967,
+        "y": 1236
+      },
+      {
+        "x": 49,
+        "y": 1825
+      },
+      {
+        "x": 842,
+        "y": 2450
+      },
+      {
+        "x": 978,
+        "y": 659
+      }
+    ],
+    "hintUrl": "images/042/hint.jpg"
   }
 ]
