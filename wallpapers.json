@@ -1632,5 +1632,40 @@
       }
     ],
     "hintUrl": "images/047/hint.jpg"
+  },
+  {
+    "id": "048",
+    "title": "Time production",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/048/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/048/1179x2556.jpg",
+      "large": "images/048/1320x2868.jpg",
+      "ipad": "images/048/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 749,
+        "y": 1269
+      },
+      {
+        "x": 1165,
+        "y": 754
+      },
+      {
+        "x": 222,
+        "y": 1385
+      },
+      {
+        "x": 86,
+        "y": 2345
+      },
+      {
+        "x": 545,
+        "y": 2689
+      }
+    ],
+    "hintUrl": "images/048/hint.jpg"
   }
 ]
