@@ -2,7 +2,7 @@
   {
     "id": "002",
     "title": "Painting",
-    "category": "Message",
+    "category": "Tiny",
     "designerId": "designer_1",
     "thumbnailUrl": "images/002/thumb.jpg",
     "imageUrl": {
@@ -38,7 +38,7 @@
   {
     "id": "003",
     "title": "Pumpkin",
-    "category": "Message",
+    "category": "Tiny",
     "designerId": "designer_1",
     "thumbnailUrl": "images/003/thumb.jpg",
     "imageUrl": {
@@ -74,7 +74,7 @@
   {
     "id": "004",
     "title": "Birds in the typhoon",
-    "category": "Message",
+    "category": "Tiny",
     "designerId": "designer_1",
     "thumbnailUrl": "images/004/thumb.jpg",
     "imageUrl": {
@@ -290,7 +290,7 @@
   {
     "id": "010",
     "title": "Jungle",
-    "category": "Message",
+    "category": "Tiny",
     "designerId": "designer_1",
     "thumbnailUrl": "images/010/thumb.jpg",
     "imageUrl": {
@@ -326,7 +326,7 @@
   {
     "id": "011",
     "title": "School",
-    "category": "Message",
+    "category": "Tiny",
     "designerId": "designer_1",
     "thumbnailUrl": "images/011/thumb.jpg",
     "imageUrl": {
@@ -362,7 +362,7 @@
   {
     "id": "012",
     "title": "I know(Kor)",
-    "category": "Typography",
+    "category": "Design",
     "designerId": "designer_2",
     "thumbnailUrl": "images/012/thumb.jpg",
     "imageUrl": {
@@ -398,7 +398,7 @@
   {
     "id": "013",
     "title": "You know...(Kor)",
-    "category": "Typography",
+    "category": "Design",
     "designerId": "designer_2",
     "thumbnailUrl": "images/013/thumb.jpg",
     "imageUrl": {
