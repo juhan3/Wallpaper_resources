@@ -2303,5 +2303,40 @@
       }
     ],
     "hintUrl": "images/066/hint.jpg"
+  },
+  {
+    "id": "067",
+    "title": "The Chef's House",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/067/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/067/1179x2556.jpg",
+      "large": "images/067/1320x2868.jpg",
+      "ipad": "images/067/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 988,
+        "y": 1240
+      },
+      {
+        "x": 274,
+        "y": 2044
+      },
+      {
+        "x": 440,
+        "y": 525
+      },
+      {
+        "x": 404,
+        "y": 2675
+      },
+      {
+        "x": 264,
+        "y": 1748
+      }
+    ],
+    "hintUrl": "images/067/hint.jpg"
   }
 ]
