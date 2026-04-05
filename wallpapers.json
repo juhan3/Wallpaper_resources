@@ -1982,5 +1982,40 @@
       }
     ],
     "hintUrl": "images/057/hint.jpg"
+  },
+  {
+    "id": "058",
+    "title": "A large family of cats",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/058/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/058/1179x2556.jpg",
+      "large": "images/058/1320x2868.jpg",
+      "ipad": "images/058/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 245,
+        "y": 434
+      },
+      {
+        "x": 554,
+        "y": 1008
+      },
+      {
+        "x": 1091,
+        "y": 1766
+      },
+      {
+        "x": 33,
+        "y": 2349
+      },
+      {
+        "x": 775,
+        "y": 2381
+      }
+    ],
+    "hintUrl": "images/058/hint.jpg"
   }
 ]
