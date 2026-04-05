@@ -1877,5 +1877,40 @@
       }
     ],
     "hintUrl": "images/054/hint.jpg"
+  },
+  {
+    "id": "055",
+    "title": "The Ghost Treasure Ship",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/055/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/055/1179x2556.jpg",
+      "large": "images/055/1320x2868.jpg",
+      "ipad": "images/055/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 325,
+        "y": 1134
+      },
+      {
+        "x": 948,
+        "y": 1433
+      },
+      {
+        "x": 384,
+        "y": 1382
+      },
+      {
+        "x": 182,
+        "y": 906
+      },
+      {
+        "x": 222,
+        "y": 2236
+      }
+    ],
+    "hintUrl": "images/055/hint.jpg"
   }
 ]
