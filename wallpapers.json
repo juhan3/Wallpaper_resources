@@ -2334,5 +2334,40 @@
       }
     ],
     "hintUrl": "images/067/hint.jpg"
+  },
+  {
+    "id": "068",
+    "title": "Art Café",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/068/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/068/1179x2556.jpg",
+      "large": "images/068/1320x2868.jpg",
+      "ipad": "images/068/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 964,
+        "y": 1712
+      },
+      {
+        "x": 553,
+        "y": 724
+      },
+      {
+        "x": 90,
+        "y": 1951
+      },
+      {
+        "x": 717,
+        "y": 2088
+      },
+      {
+        "x": 486,
+        "y": 1132
+      }
+    ],
+    "hintUrl": "images/068/hint.jpg"
   }
 ]
