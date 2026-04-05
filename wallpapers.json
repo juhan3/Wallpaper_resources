@@ -1352,5 +1352,40 @@
       }
     ],
     "hintUrl": "images/039/hint.jpg"
+  },
+  {
+    "id": "040",
+    "title": "Festival on a Rainy Day",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/040/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/040/1179x2556.jpg",
+      "large": "images/040/1320x2868.jpg",
+      "ipad": "images/040/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1088,
+        "y": 443
+      },
+      {
+        "x": 296,
+        "y": 1628
+      },
+      {
+        "x": 759,
+        "y": 767
+      },
+      {
+        "x": 552,
+        "y": 1462
+      },
+      {
+        "x": 1120,
+        "y": 2234
+      }
+    ],
+    "hintUrl": "images/040/hint.jpg"
   }
 ]
