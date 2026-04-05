@@ -2544,5 +2544,40 @@
       }
     ],
     "hintUrl": "images/073/hint.jpg"
+  },
+  {
+    "id": "074",
+    "title": "Spring cleaning day",
+    "category": "People",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/074/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/074/1179x2556.jpg",
+      "large": "images/074/1320x2868.jpg",
+      "ipad": "images/074/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1218,
+        "y": 1067
+      },
+      {
+        "x": 293,
+        "y": 1162
+      },
+      {
+        "x": 863,
+        "y": 1634
+      },
+      {
+        "x": 347,
+        "y": 2463
+      },
+      {
+        "x": 1174,
+        "y": 2302
+      }
+    ],
+    "hintUrl": "images/074/hint.jpg"
   }
 ]
