@@ -2161,5 +2161,41 @@
     ],
     "hintUrl": "images/062/hint.jpg",
     "date": "2026-04-09"
+  },
+  {
+    "id": "063",
+    "title": "Laundrette",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/063/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/063/1179x2556.jpg",
+      "large": "images/063/1320x2868.jpg",
+      "ipad": "images/063/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 581,
+        "y": 442
+      },
+      {
+        "x": 859,
+        "y": 1179
+      },
+      {
+        "x": 537,
+        "y": 1920
+      },
+      {
+        "x": 442,
+        "y": 2174
+      },
+      {
+        "x": 77,
+        "y": 1978
+      }
+    ],
+    "hintUrl": "images/063/hint.jpg",
+    "date": "2026-04-10"
   }
 ]
