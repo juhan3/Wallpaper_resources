@@ -1842,5 +1842,40 @@
       }
     ],
     "hintUrl": "images/053/hint.jpg"
+  },
+  {
+    "id": "054",
+    "title": "The owner is the cat on the ground floor",
+    "category": "Tiny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/054/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/054/1179x2556.jpg",
+      "large": "images/054/1320x2868.jpg",
+      "ipad": "images/054/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 577,
+        "y": 1300
+      },
+      {
+        "x": 346,
+        "y": 1962
+      },
+      {
+        "x": 887,
+        "y": 2560
+      },
+      {
+        "x": 365,
+        "y": 2622
+      },
+      {
+        "x": 69,
+        "y": 1755
+      }
+    ],
+    "hintUrl": "images/054/hint.jpg"
   }
 ]
