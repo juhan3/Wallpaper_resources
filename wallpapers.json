@@ -1772,5 +1772,40 @@
       }
     ],
     "hintUrl": "images/051/hint.jpg"
+  },
+  {
+    "id": "052",
+    "title": "Cafés and music",
+    "category": "TIny",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/052/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/052/1179x2556.jpg",
+      "large": "images/052/1320x2868.jpg",
+      "ipad": "images/052/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1137,
+        "y": 659
+      },
+      {
+        "x": 471,
+        "y": 540
+      },
+      {
+        "x": 194,
+        "y": 1210
+      },
+      {
+        "x": 1193,
+        "y": 1768
+      },
+      {
+        "x": 271,
+        "y": 2162
+      }
+    ],
+    "hintUrl": "images/052/hint.jpg"
   }
 ]
