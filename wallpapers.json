@@ -1737,5 +1737,40 @@
       }
     ],
     "hintUrl": "images/050/hint.jpg"
+  },
+  {
+    "id": "051",
+    "title": "The Hamster Song",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/051/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/051/1179x2556.jpg",
+      "large": "images/051/1320x2868.jpg",
+      "ipad": "images/051/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 349,
+        "y": 497
+      },
+      {
+        "x": 887,
+        "y": 1535
+      },
+      {
+        "x": 463,
+        "y": 2417
+      },
+      {
+        "x": 194,
+        "y": 1385
+      },
+      {
+        "x": 1075,
+        "y": 777
+      }
+    ],
+    "hintUrl": "images/051/hint.jpg"
   }
 ]
