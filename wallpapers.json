@@ -2754,5 +2754,41 @@
       }
     ],
     "hintUrl": "images/079/hint.jpg"
+  },
+  {
+    "id": "080",
+    "title": "Puppies",
+    "category": "Photograph",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/080/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/080/1179x2556.jpg",
+      "large": "images/080/1320x2868.jpg",
+      "ipad": "images/080/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 280,
+        "y": 373
+      },
+      {
+        "x": 334,
+        "y": 1222
+      },
+      {
+        "x": 100,
+        "y": 2523
+      },
+      {
+        "x": 100,
+        "y": 1663
+      },
+      {
+        "x": 1213,
+        "y": 1169
+      }
+    ],
+    "hintUrl": "images/080/hint.jpg",
+    "date": "2026-04-07"
   }
 ]
