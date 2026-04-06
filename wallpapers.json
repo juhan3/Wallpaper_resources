@@ -2544,5 +2544,40 @@
       }
     ],
     "hintUrl": "images/073/hint.jpg"
+  },
+  {
+    "id": "074",
+    "title": "Come on, kids, let’s play!",
+    "category": "People",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/074/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/074/1179x2556.jpg",
+      "large": "images/074/1320x2868.jpg",
+      "ipad": "images/074/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1031,
+        "y": 578
+      },
+      {
+        "x": 953,
+        "y": 2346
+      },
+      {
+        "x": 553,
+        "y": 1119
+      },
+      {
+        "x": 1074,
+        "y": 219
+      },
+      {
+        "x": 456,
+        "y": 1624
+      }
+    ],
+    "hintUrl": "images/074/hint.jpg"
   }
 ]
