@@ -2719,5 +2719,40 @@
       }
     ],
     "hintUrl": "images/078/hint.jpg"
+  },
+  {
+    "id": "079",
+    "title": "Summer Chaser",
+    "category": "Photograph",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/079/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/079/1179x2556.jpg",
+      "large": "images/079/1320x2868.jpg",
+      "ipad": "images/079/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 890,
+        "y": 853
+      },
+      {
+        "x": 626,
+        "y": 1434
+      },
+      {
+        "x": 616,
+        "y": 2492
+      },
+      {
+        "x": 227,
+        "y": 1539
+      },
+      {
+        "x": 1213,
+        "y": 1041
+      }
+    ],
+    "hintUrl": "images/079/hint.jpg"
   }
 ]
