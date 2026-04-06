@@ -2649,5 +2649,40 @@
       }
     ],
     "hintUrl": "images/076/hint.jpg"
+  },
+  {
+    "id": "077",
+    "title": "I feel much better after a shower!",
+    "category": "Photograph",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/077/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/077/1179x2556.jpg",
+      "large": "images/077/1320x2868.jpg",
+      "ipad": "images/077/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 514,
+        "y": 921
+      },
+      {
+        "x": 461,
+        "y": 1847
+      },
+      {
+        "x": 1116,
+        "y": 1889
+      },
+      {
+        "x": 57,
+        "y": 1461
+      },
+      {
+        "x": 965,
+        "y": 1292
+      }
+    ],
+    "hintUrl": "images/077/hint.jpg"
   }
 ]
