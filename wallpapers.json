@@ -2579,5 +2579,40 @@
       }
     ],
     "hintUrl": "images/074/hint.jpg"
+  },
+  {
+    "id": "075",
+    "title": "Laundrette Quiz Competition",
+    "category": "People",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/075/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/075/1179x2556.jpg",
+      "large": "images/075/1320x2868.jpg",
+      "ipad": "images/075/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 856,
+        "y": 1529
+      },
+      {
+        "x": 75,
+        "y": 981
+      },
+      {
+        "x": 802,
+        "y": 2100
+      },
+      {
+        "x": 909,
+        "y": 673
+      },
+      {
+        "x": 1102,
+        "y": 1904
+      }
+    ],
+    "hintUrl": "images/075/hint.jpg"
   }
 ]
