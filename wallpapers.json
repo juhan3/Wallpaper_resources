@@ -2614,5 +2614,40 @@
       }
     ],
     "hintUrl": "images/075/hint.jpg"
+  },
+  {
+    "id": "076",
+    "title": "LP record collector",
+    "category": "Photograph",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/076/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/076/1179x2556.jpg",
+      "large": "images/076/1320x2868.jpg",
+      "ipad": "images/076/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 506,
+        "y": 1760
+      },
+      {
+        "x": 219,
+        "y": 2241
+      },
+      {
+        "x": 952,
+        "y": 2732
+      },
+      {
+        "x": 1049,
+        "y": 195
+      },
+      {
+        "x": 855,
+        "y": 1255
+      }
+    ],
+    "hintUrl": "images/076/hint.jpg"
   }
 ]
