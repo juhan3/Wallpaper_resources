@@ -2684,5 +2684,40 @@
       }
     ],
     "hintUrl": "images/077/hint.jpg"
+  },
+  {
+    "id": "078",
+    "title": "A cheerful blue",
+    "category": "Photograph",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/078/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/078/1179x2556.jpg",
+      "large": "images/078/1320x2868.jpg",
+      "ipad": "images/078/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 297,
+        "y": 1774
+      },
+      {
+        "x": 1094,
+        "y": 2115
+      },
+      {
+        "x": 880,
+        "y": 2735
+      },
+      {
+        "x": 690,
+        "y": 2193
+      },
+      {
+        "x": 680,
+        "y": 1799
+      }
+    ],
+    "hintUrl": "images/078/hint.jpg"
   }
 ]
