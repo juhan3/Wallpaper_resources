@@ -2652,9 +2652,9 @@
   },
   {
     "id": "077",
-    "title": "I feel much better after a shower!",
-    "category": "Photograph",
-    "designerId": "designer_2",
+    "title": "Night work",
+    "category": "People",
+    "designerId": "designer_3",
     "thumbnailUrl": "images/077/thumb.jpg",
     "imageUrl": {
       "standard": "images/077/1179x2556.jpg",
@@ -2663,24 +2663,24 @@
     },
     "spots": [
       {
-        "x": 514,
-        "y": 921
+        "x": 47,
+        "y": 510
       },
       {
-        "x": 461,
-        "y": 1847
+        "x": 1008,
+        "y": 1722
       },
       {
-        "x": 1116,
-        "y": 1889
+        "x": 606,
+        "y": 863
       },
       {
-        "x": 57,
-        "y": 1461
+        "x": 144,
+        "y": 2335
       },
       {
-        "x": 965,
-        "y": 1292
+        "x": 1148,
+        "y": 853
       }
     ],
     "hintUrl": "images/077/hint.jpg"
