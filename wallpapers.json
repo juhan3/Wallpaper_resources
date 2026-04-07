@@ -2830,7 +2830,7 @@
   {
     "id": "082",
     "title": "A girl reading a book",
-    "category": "Photograph",
+    "category": "Portrait",
     "designerId": "designer_2",
     "thumbnailUrl": "images/082/thumb.jpg",
     "imageUrl": {
@@ -2861,6 +2861,42 @@
       }
     ],
     "hintUrl": "images/082/hint.jpg",
+    "date": "2026-04-07"
+  },
+  {
+    "id": "083",
+    "title": "Blue flower",
+    "category": "Portrait",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/083/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/083/1179x2556.jpg",
+      "large": "images/083/1320x2868.jpg",
+      "ipad": "images/083/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 221,
+        "y": 275
+      },
+      {
+        "x": 417,
+        "y": 787
+      },
+      {
+        "x": 200,
+        "y": 1961
+      },
+      {
+        "x": 1235,
+        "y": 2198
+      },
+      {
+        "x": 1080,
+        "y": 1465
+      }
+    ],
+    "hintUrl": "images/083/hint.jpg",
     "date": "2026-04-07"
   }
 ]
