@@ -3006,5 +3006,41 @@
     ],
     "hintUrl": "images/086/hint.jpg",
     "date": "2026-04-07"
+  },
+  {
+    "id": "087",
+    "title": "Planets and Trajectories",
+    "category": "Portrait",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/087/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/087/1179x2556.jpg",
+      "large": "images/087/1320x2868.jpg",
+      "ipad": "images/087/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 824,
+        "y": 1139
+      },
+      {
+        "x": 123,
+        "y": 1844
+      },
+      {
+        "x": 660,
+        "y": 2559
+      },
+      {
+        "x": 308,
+        "y": 2409
+      },
+      {
+        "x": 1051,
+        "y": 2264
+      }
+    ],
+    "hintUrl": "images/087/hint.jpg",
+    "date": "2026-04-07"
   }
 ]
