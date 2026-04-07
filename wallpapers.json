@@ -2898,5 +2898,41 @@
     ],
     "hintUrl": "images/083/hint.jpg",
     "date": "2026-04-07"
+  },
+  {
+    "id": "084",
+    "title": "Fun Music Class",
+    "category": "People",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/084/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/084/1179x2556.jpg",
+      "large": "images/084/1320x2868.jpg",
+      "ipad": "images/084/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1134,
+        "y": 462
+      },
+      {
+        "x": 93,
+        "y": 971
+      },
+      {
+        "x": 578,
+        "y": 2644
+      },
+      {
+        "x": 908,
+        "y": 2591
+      },
+      {
+        "x": 1107,
+        "y": 961
+      }
+    ],
+    "hintUrl": "images/084/hint.jpg",
+    "date": "2026-04-07"
   }
 ]
