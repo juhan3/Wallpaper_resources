@@ -2826,5 +2826,41 @@
     ],
     "hintUrl": "images/081/hint.jpg",
     "date": "2026-04-07"
+  },
+  {
+    "id": "082",
+    "title": "A girl reading a book",
+    "category": "Photograph",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/082/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/082/1179x2556.jpg",
+      "large": "images/082/1320x2868.jpg",
+      "ipad": "images/082/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 811,
+        "y": 402
+      },
+      {
+        "x": 71,
+        "y": 1146
+      },
+      {
+        "x": 1094,
+        "y": 2781
+      },
+      {
+        "x": 423,
+        "y": 2502
+      },
+      {
+        "x": 908,
+        "y": 1883
+      }
+    ],
+    "hintUrl": "images/082/hint.jpg",
+    "date": "2026-04-07"
   }
 ]
