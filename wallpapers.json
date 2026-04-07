@@ -3042,5 +3042,41 @@
     ],
     "hintUrl": "images/087/hint.jpg",
     "date": "2026-04-07"
+  },
+  {
+    "id": "088",
+    "title": "The Thinking Cap",
+    "category": "Portrait",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/088/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/088/1179x2556.jpg",
+      "large": "images/088/1320x2868.jpg",
+      "ipad": "images/088/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 533,
+        "y": 587
+      },
+      {
+        "x": 1125,
+        "y": 2599
+      },
+      {
+        "x": 479,
+        "y": 1657
+      },
+      {
+        "x": 1081,
+        "y": 1068
+      },
+      {
+        "x": 204,
+        "y": 945
+      }
+    ],
+    "hintUrl": "images/088/hint.jpg",
+    "date": "2026-04-07"
   }
 ]
