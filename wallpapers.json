@@ -2970,5 +2970,41 @@
     ],
     "hintUrl": "images/085/hint.jpg",
     "date": "2026-04-07"
+  },
+  {
+    "id": "086",
+    "title": "Thoughts on the Universe",
+    "category": "Portrait",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/086/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/086/1179x2556.jpg",
+      "large": "images/086/1320x2868.jpg",
+      "ipad": "images/086/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 682,
+        "y": 107
+      },
+      {
+        "x": 501,
+        "y": 1329
+      },
+      {
+        "x": 999,
+        "y": 2399
+      },
+      {
+        "x": 151,
+        "y": 1234
+      },
+      {
+        "x": 1167,
+        "y": 979
+      }
+    ],
+    "hintUrl": "images/086/hint.jpg",
+    "date": "2026-04-07"
   }
 ]
