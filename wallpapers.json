@@ -3186,5 +3186,149 @@
     ],
     "hintUrl": "images/091/hint.jpg",
     "date": "2026-04-08"
+  },
+  {
+    "id": "092",
+    "title": "A man in a suit",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/092/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/092/1179x2556.jpg",
+      "large": "images/092/1320x2868.jpg",
+      "ipad": "images/092/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1071,
+        "y": 2516
+      },
+      {
+        "x": 273,
+        "y": 1117
+      },
+      {
+        "x": 424,
+        "y": 2464
+      },
+      {
+        "x": 410,
+        "y": 1654
+      },
+      {
+        "x": 937,
+        "y": 879
+      }
+    ],
+    "hintUrl": "images/092/hint.jpg",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "093",
+    "title": "The cat’s well-being",
+    "category": "Animal",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/093/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/093/1179x2556.jpg",
+      "large": "images/093/1320x2868.jpg",
+      "ipad": "images/093/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 216,
+        "y": 2409
+      },
+      {
+        "x": 1025,
+        "y": 2669
+      },
+      {
+        "x": 383,
+        "y": 272
+      },
+      {
+        "x": 339,
+        "y": 1614
+      },
+      {
+        "x": 1104,
+        "y": 1625
+      }
+    ],
+    "hintUrl": "images/093/hint.jpg",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "094",
+    "title": "The House on the Hill",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/094/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/094/1179x2556.jpg",
+      "large": "images/094/1320x2868.jpg",
+      "ipad": "images/094/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1034,
+        "y": 2430
+      },
+      {
+        "x": 661,
+        "y": 409
+      },
+      {
+        "x": 295,
+        "y": 2152
+      },
+      {
+        "x": 183,
+        "y": 1070
+      },
+      {
+        "x": 967,
+        "y": 1107
+      }
+    ],
+    "hintUrl": "images/094/hint.jpg",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "095",
+    "title": "A cat drinking coffee",
+    "category": "Animal",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/095/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/095/1179x2556.jpg",
+      "large": "images/095/1320x2868.jpg",
+      "ipad": "images/095/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 697,
+        "y": 2556
+      },
+      {
+        "x": 1263,
+        "y": 424
+      },
+      {
+        "x": 394,
+        "y": 709
+      },
+      {
+        "x": 751,
+        "y": 1702
+      },
+      {
+        "x": 150,
+        "y": 1543
+      }
+    ],
+    "hintUrl": "images/095/hint.jpg",
+    "date": "2026-04-08"
   }
 ]
