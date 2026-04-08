@@ -3402,5 +3402,41 @@
     ],
     "hintUrl": "images/097/hint.jpg",
     "date": "2026-04-08"
+  },
+  {
+    "id": "098",
+    "title": "The sky after the rain",
+    "category": "Story",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/098/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/098/1179x2556.jpg",
+      "large": "images/098/1320x2868.jpg",
+      "ipad": "images/098/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 937,
+        "y": 2054
+      },
+      {
+        "x": 388,
+        "y": 284
+      },
+      {
+        "x": 757,
+        "y": 1238
+      },
+      {
+        "x": 728,
+        "y": 2600
+      },
+      {
+        "x": 786,
+        "y": 635
+      }
+    ],
+    "hintUrl": "images/098/hint.jpg",
+    "date": "2026-04-08"
   }
 ]
