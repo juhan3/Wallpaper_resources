@@ -3078,5 +3078,41 @@
     ],
     "hintUrl": "images/088/hint.jpg",
     "date": "2026-04-07"
+  },
+  {
+    "id": "089",
+    "title": "An excited cat",
+    "category": "Animal",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/089/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/089/1179x2556.jpg",
+      "large": "images/089/1320x2868.jpg",
+      "ipad": "images/089/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 489,
+        "y": 355
+      },
+      {
+        "x": 1124,
+        "y": 2348
+      },
+      {
+        "x": 908,
+        "y": 1744
+      },
+      {
+        "x": 908,
+        "y": 803
+      },
+      {
+        "x": 108,
+        "y": 1037
+      }
+    ],
+    "hintUrl": "images/089/hint.jpg",
+    "date": "2026-04-08"
   }
 ]
