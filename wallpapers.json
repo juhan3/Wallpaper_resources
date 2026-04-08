@@ -3330,5 +3330,77 @@
     ],
     "hintUrl": "images/095/hint.jpg",
     "date": "2026-04-08"
+  },
+  {
+    "id": "096",
+    "title": "Lover",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/096/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/096/1179x2556.jpg",
+      "large": "images/096/1320x2868.jpg",
+      "ipad": "images/096/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 873,
+        "y": 2219
+      },
+      {
+        "x": 475,
+        "y": 221
+      },
+      {
+        "x": 1149,
+        "y": 1187
+      },
+      {
+        "x": 136,
+        "y": 1540
+      },
+      {
+        "x": 1101,
+        "y": 168
+      }
+    ],
+    "hintUrl": "images/096/hint.jpg",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "097",
+    "title": "The Woman in the Glass",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/097/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/097/1179x2556.jpg",
+      "large": "images/097/1320x2868.jpg",
+      "ipad": "images/097/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 378,
+        "y": 732
+      },
+      {
+        "x": 175,
+        "y": 2143
+      },
+      {
+        "x": 438,
+        "y": 1639
+      },
+      {
+        "x": 953,
+        "y": 751
+      },
+      {
+        "x": 1093,
+        "y": 2651
+      }
+    ],
+    "hintUrl": "images/097/hint.jpg",
+    "date": "2026-04-08"
   }
 ]
