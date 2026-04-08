@@ -3438,5 +3438,149 @@
     ],
     "hintUrl": "images/098/hint.jpg",
     "date": "2026-04-08"
+  },
+  {
+    "id": "099",
+    "title": "Female model",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/099/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/099/1179x2556.jpg",
+      "large": "images/099/1320x2868.jpg",
+      "ipad": "images/099/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 228,
+        "y": 2281
+      },
+      {
+        "x": 470,
+        "y": 1330
+      },
+      {
+        "x": 1148,
+        "y": 2579
+      },
+      {
+        "x": 1021,
+        "y": 2249
+      },
+      {
+        "x": 1036,
+        "y": 1428
+      }
+    ],
+    "hintUrl": "images/099/hint.jpg",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "100",
+    "title": "The Blue Man",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/100/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/100/1179x2556.jpg",
+      "large": "images/100/1320x2868.jpg",
+      "ipad": "images/100/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1189,
+        "y": 1575
+      },
+      {
+        "x": 159,
+        "y": 790
+      },
+      {
+        "x": 925,
+        "y": 1029
+      },
+      {
+        "x": 694,
+        "y": 2023
+      },
+      {
+        "x": 754,
+        "y": 1421
+      }
+    ],
+    "hintUrl": "images/100/hint.jpg",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "101",
+    "title": "Space Restaurant",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/101/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/101/1179x2556.jpg",
+      "large": "images/101/1320x2868.jpg",
+      "ipad": "images/101/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 463,
+        "y": 541
+      },
+      {
+        "x": 1142,
+        "y": 1291
+      },
+      {
+        "x": 1025,
+        "y": 1797
+      },
+      {
+        "x": 217,
+        "y": 2005
+      },
+      {
+        "x": 958,
+        "y": 2625
+      }
+    ],
+    "hintUrl": "images/101/hint.jpg",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "102",
+    "title": "A magnificent building",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/102/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/102/1179x2556.jpg",
+      "large": "images/102/1320x2868.jpg",
+      "ipad": "images/102/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 383,
+        "y": 263
+      },
+      {
+        "x": 506,
+        "y": 1189
+      },
+      {
+        "x": 1087,
+        "y": 195
+      },
+      {
+        "x": 287,
+        "y": 2495
+      },
+      {
+        "x": 1001,
+        "y": 1728
+      }
+    ],
+    "hintUrl": "images/102/hint.jpg",
+    "date": "2026-04-08"
   }
 ]
