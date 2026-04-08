@@ -827,7 +827,7 @@
   {
     "id": "025",
     "title": "Rainy Day Dog Meet-up",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/025/thumb.jpg",
     "imageUrl": {
@@ -862,7 +862,7 @@
   {
     "id": "026",
     "title": "dog on a voyage",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/026/thumb.jpg",
     "imageUrl": {
@@ -1142,7 +1142,7 @@
   {
     "id": "034",
     "title": "Owl Library",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/034/thumb.jpg",
     "imageUrl": {
@@ -1317,7 +1317,7 @@
   {
     "id": "039",
     "title": "Penguin Machine",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/039/thumb.jpg",
     "imageUrl": {
@@ -1352,7 +1352,7 @@
   {
     "id": "040",
     "title": "Festival on a Rainy Day",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/040/thumb.jpg",
     "imageUrl": {
@@ -1457,7 +1457,7 @@
   {
     "id": "043",
     "title": "orchard",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/043/thumb.jpg",
     "imageUrl": {
@@ -1492,7 +1492,7 @@
   {
     "id": "044",
     "title": "The Cat Meeting",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/044/thumb.jpg",
     "imageUrl": {
@@ -1597,7 +1597,7 @@
   {
     "id": "047",
     "title": "Bookworm",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/047/thumb.jpg",
     "imageUrl": {
@@ -1737,7 +1737,7 @@
   {
     "id": "051",
     "title": "The Hamster Song",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/051/thumb.jpg",
     "imageUrl": {
@@ -1947,7 +1947,7 @@
   {
     "id": "057",
     "title": "Jungle Cat House",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/057/thumb.jpg",
     "imageUrl": {
@@ -1982,7 +1982,7 @@
   {
     "id": "058",
     "title": "A large family of cats",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/058/thumb.jpg",
     "imageUrl": {
@@ -2017,7 +2017,7 @@
   {
     "id": "059",
     "title": "Frog House",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/059/thumb.jpg",
     "imageUrl": {
@@ -2053,7 +2053,7 @@
   {
     "id": "060",
     "title": "Korean House",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/060/thumb.jpg",
     "imageUrl": {
@@ -2089,7 +2089,7 @@
   {
     "id": "061",
     "title": "A house with a bathroom",
-    "category": "Story",
+    "category": "Animal",
     "designerId": "designer_3",
     "thumbnailUrl": "images/061/thumb.jpg",
     "imageUrl": {
