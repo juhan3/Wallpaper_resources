@@ -3114,5 +3114,41 @@
     ],
     "hintUrl": "images/089/hint.jpg",
     "date": "2026-04-08"
+  },
+  {
+    "id": "090",
+    "title": "A man with a moustache",
+    "category": "Portrait",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/090/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/090/1179x2556.jpg",
+      "large": "images/090/1320x2868.jpg",
+      "ipad": "images/090/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 64,
+        "y": 2484
+      },
+      {
+        "x": 1084,
+        "y": 1329
+      },
+      {
+        "x": 355,
+        "y": 602
+      },
+      {
+        "x": 1030,
+        "y": 2474
+      },
+      {
+        "x": 987,
+        "y": 627
+      }
+    ],
+    "hintUrl": "images/090/hint.jpg",
+    "date": "2026-04-08"
   }
 ]
