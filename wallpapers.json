@@ -3150,5 +3150,41 @@
     ],
     "hintUrl": "images/090/hint.jpg",
     "date": "2026-04-08"
+  },
+  {
+    "id": "091",
+    "title": "A woman on the shimmering lake",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/091/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/091/1179x2556.jpg",
+      "large": "images/091/1320x2868.jpg",
+      "ipad": "images/091/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 603,
+        "y": 1596
+      },
+      {
+        "x": 229,
+        "y": 2646
+      },
+      {
+        "x": 142,
+        "y": 713
+      },
+      {
+        "x": 797,
+        "y": 804
+      },
+      {
+        "x": 1113,
+        "y": 2559
+      }
+    ],
+    "hintUrl": "images/091/hint.jpg",
+    "date": "2026-04-08"
   }
 ]
