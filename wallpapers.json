@@ -3798,5 +3798,113 @@
     ],
     "hintUrl": "images/108/hint.jpg",
     "date": "2026-04-09"
+  },
+  {
+    "id": "109",
+    "title": "A photograph in the mist",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/109/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/109/1179x2556.jpg",
+      "large": "images/109/1320x2868.jpg",
+      "ipad": "images/109/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 226,
+        "y": 2372
+      },
+      {
+        "x": 773,
+        "y": 2674
+      },
+      {
+        "x": 997,
+        "y": 969
+      },
+      {
+        "x": 425,
+        "y": 556
+      },
+      {
+        "x": 255,
+        "y": 980
+      }
+    ],
+    "hintUrl": "images/109/hint.jpg",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "110",
+    "title": "Record shop",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/110/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/110/1179x2556.jpg",
+      "large": "images/110/1320x2868.jpg",
+      "ipad": "images/110/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 176,
+        "y": 1682
+      },
+      {
+        "x": 826,
+        "y": 137
+      },
+      {
+        "x": 504,
+        "y": 1309
+      },
+      {
+        "x": 216,
+        "y": 2499
+      },
+      {
+        "x": 1132,
+        "y": 1705
+      }
+    ],
+    "hintUrl": "images/110/hint.jpg",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "111",
+    "title": "A man under the spotlight",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/111/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/111/1179x2556.jpg",
+      "large": "images/111/1320x2868.jpg",
+      "ipad": "images/111/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 361,
+        "y": 2674
+      },
+      {
+        "x": 411,
+        "y": 1810
+      },
+      {
+        "x": 207,
+        "y": 388
+      },
+      {
+        "x": 897,
+        "y": 2107
+      },
+      {
+        "x": 884,
+        "y": 1164
+      }
+    ],
+    "hintUrl": "images/111/hint.jpg",
+    "date": "2026-04-09"
   }
 ]
