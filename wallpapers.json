@@ -4014,5 +4014,41 @@
     ],
     "hintUrl": "images/114/hint.jpg",
     "date": "2026-04-09"
+  },
+  {
+    "id": "115",
+    "title": "puppy",
+    "category": "Animal",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/115/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/115/1179x2556.jpg",
+      "large": "images/115/1320x2868.jpg",
+      "ipad": "images/115/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1116,
+        "y": 145
+      },
+      {
+        "x": 325,
+        "y": 1756
+      },
+      {
+        "x": 1090,
+        "y": 1786
+      },
+      {
+        "x": 757,
+        "y": 2460
+      },
+      {
+        "x": 513,
+        "y": 1337
+      }
+    ],
+    "hintUrl": "images/115/hint.jpg",
+    "date": "2026-04-09"
   }
 ]
