@@ -3582,5 +3582,221 @@
     ],
     "hintUrl": "images/102/hint.jpg",
     "date": "2026-04-08"
+  },
+  {
+    "id": "103",
+    "title": "Checked shirt",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/103/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/103/1179x2556.jpg",
+      "large": "images/103/1320x2868.jpg",
+      "ipad": "images/103/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 482,
+        "y": 191
+      },
+      {
+        "x": 1186,
+        "y": 1369
+      },
+      {
+        "x": 877,
+        "y": 2471
+      },
+      {
+        "x": 994,
+        "y": 341
+      },
+      {
+        "x": 314,
+        "y": 2153
+      }
+    ],
+    "hintUrl": "images/103/hint.jpg",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "104",
+    "title": "Under repair",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/104/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/104/1179x2556.jpg",
+      "large": "images/104/1320x2868.jpg",
+      "ipad": "images/104/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 920,
+        "y": 562
+      },
+      {
+        "x": 301,
+        "y": 245
+      },
+      {
+        "x": 292,
+        "y": 1017
+      },
+      {
+        "x": 760,
+        "y": 2559
+      },
+      {
+        "x": 791,
+        "y": 1404
+      }
+    ],
+    "hintUrl": "images/104/hint.jpg",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "105",
+    "title": "Ice Dance",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/105/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/105/1179x2556.jpg",
+      "large": "images/105/1320x2868.jpg",
+      "ipad": "images/105/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1141,
+        "y": 1793
+      },
+      {
+        "x": 598,
+        "y": 872
+      },
+      {
+        "x": 850,
+        "y": 494
+      },
+      {
+        "x": 742,
+        "y": 2449
+      },
+      {
+        "x": 183,
+        "y": 1923
+      }
+    ],
+    "hintUrl": "images/105/hint.jpg",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "106",
+    "title": "Red background",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/106/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/106/1179x2556.jpg",
+      "large": "images/106/1320x2868.jpg",
+      "ipad": "images/106/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 873,
+        "y": 2160
+      },
+      {
+        "x": 222,
+        "y": 2598
+      },
+      {
+        "x": 215,
+        "y": 2027
+      },
+      {
+        "x": 182,
+        "y": 1509
+      },
+      {
+        "x": 1158,
+        "y": 1435
+      }
+    ],
+    "hintUrl": "images/106/hint.jpg",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "107",
+    "title": "Cat selfie",
+    "category": "Animal",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/107/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/107/1179x2556.jpg",
+      "large": "images/107/1320x2868.jpg",
+      "ipad": "images/107/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1145,
+        "y": 2633
+      },
+      {
+        "x": 930,
+        "y": 604
+      },
+      {
+        "x": 236,
+        "y": 2357
+      },
+      {
+        "x": 361,
+        "y": 555
+      },
+      {
+        "x": 1104,
+        "y": 1124
+      }
+    ],
+    "hintUrl": "images/107/hint.jpg",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "108",
+    "title": "Café",
+    "category": "Story",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/108/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/108/1179x2556.jpg",
+      "large": "images/108/1320x2868.jpg",
+      "ipad": "images/108/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 573,
+        "y": 1461
+      },
+      {
+        "x": 1110,
+        "y": 2009
+      },
+      {
+        "x": 163,
+        "y": 803
+      },
+      {
+        "x": 1100,
+        "y": 1002
+      },
+      {
+        "x": 666,
+        "y": 194
+      }
+    ],
+    "hintUrl": "images/108/hint.jpg",
+    "date": "2026-04-09"
   }
 ]
