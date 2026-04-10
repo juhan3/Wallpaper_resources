@@ -4122,5 +4122,77 @@
     ],
     "hintUrl": "images/117/hint.jpg",
     "date": "2026-04-10"
+  },
+  {
+    "id": "118",
+    "title": "Fancy a cup of tea?",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/118/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/118/1179x2556.jpg",
+      "large": "images/118/1320x2868.jpg",
+      "ipad": "images/118/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 411,
+        "y": 227
+      },
+      {
+        "x": 959,
+        "y": 2105
+      },
+      {
+        "x": 346,
+        "y": 2375
+      },
+      {
+        "x": 259,
+        "y": 931
+      },
+      {
+        "x": 1075,
+        "y": 432
+      }
+    ],
+    "hintUrl": "images/118/hint.jpg",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "119",
+    "title": "The House in the Woods",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/119/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/119/1179x2556.jpg",
+      "large": "images/119/1320x2868.jpg",
+      "ipad": "images/119/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1078,
+        "y": 2172
+      },
+      {
+        "x": 534,
+        "y": 1282
+      },
+      {
+        "x": 477,
+        "y": 190
+      },
+      {
+        "x": 1129,
+        "y": 284
+      },
+      {
+        "x": 538,
+        "y": 1974
+      }
+    ],
+    "hintUrl": "images/119/hint.jpg",
+    "date": "2026-04-10"
   }
 ]
