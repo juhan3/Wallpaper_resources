@@ -4050,5 +4050,401 @@
     ],
     "hintUrl": "images/115/hint.jpg",
     "date": "2026-04-09"
+  },
+  {
+    "id": "116",
+    "title": "The Cat's House",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/116/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/116/1179x2556.jpg",
+      "large": "images/116/1320x2868.jpg",
+      "ipad": "images/116/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 254,
+        "y": 252
+      },
+      {
+        "x": 946,
+        "y": 412
+      },
+      {
+        "x": 1114,
+        "y": 739
+      },
+      {
+        "x": 408,
+        "y": 1431
+      },
+      {
+        "x": 603,
+        "y": 2556
+      }
+    ],
+    "hintUrl": "images/116/hint.jpg",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "117",
+    "title": "Potion Factory",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/117/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/117/1179x2556.jpg",
+      "large": "images/117/1320x2868.jpg",
+      "ipad": "images/117/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 763,
+        "y": 163
+      },
+      {
+        "x": 384,
+        "y": 1509
+      },
+      {
+        "x": 630,
+        "y": 1199
+      },
+      {
+        "x": 991,
+        "y": 1675
+      },
+      {
+        "x": 768,
+        "y": 2190
+      }
+    ],
+    "hintUrl": "images/117/hint.jpg",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "118",
+    "title": "Fancy a cup of tea?",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/118/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/118/1179x2556.jpg",
+      "large": "images/118/1320x2868.jpg",
+      "ipad": "images/118/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 411,
+        "y": 227
+      },
+      {
+        "x": 959,
+        "y": 2105
+      },
+      {
+        "x": 346,
+        "y": 2375
+      },
+      {
+        "x": 259,
+        "y": 931
+      },
+      {
+        "x": 1075,
+        "y": 432
+      }
+    ],
+    "hintUrl": "images/118/hint.jpg",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "119",
+    "title": "The House in the Woods",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/119/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/119/1179x2556.jpg",
+      "large": "images/119/1320x2868.jpg",
+      "ipad": "images/119/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1078,
+        "y": 2172
+      },
+      {
+        "x": 534,
+        "y": 1282
+      },
+      {
+        "x": 477,
+        "y": 190
+      },
+      {
+        "x": 1129,
+        "y": 284
+      },
+      {
+        "x": 538,
+        "y": 1974
+      }
+    ],
+    "hintUrl": "images/119/hint.jpg",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "120",
+    "title": "Sky Island",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/120/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/120/1179x2556.jpg",
+      "large": "images/120/1320x2868.jpg",
+      "ipad": "images/120/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 563,
+        "y": 699
+      },
+      {
+        "x": 1025,
+        "y": 1897
+      },
+      {
+        "x": 204,
+        "y": 1927
+      },
+      {
+        "x": 910,
+        "y": 708
+      },
+      {
+        "x": 1014,
+        "y": 1385
+      }
+    ],
+    "hintUrl": "images/120/hint.jpg",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "121",
+    "title": "flood",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/121/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/121/1179x2556.jpg",
+      "large": "images/121/1320x2868.jpg",
+      "ipad": "images/121/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 546,
+        "y": 433
+      },
+      {
+        "x": 705,
+        "y": 2431
+      },
+      {
+        "x": 348,
+        "y": 892
+      },
+      {
+        "x": 165,
+        "y": 1785
+      },
+      {
+        "x": 541,
+        "y": 1712
+      }
+    ],
+    "hintUrl": "images/121/hint.jpg",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "122",
+    "title": "Potion-making",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/122/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/122/1179x2556.jpg",
+      "large": "images/122/1320x2868.jpg",
+      "ipad": "images/122/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1049,
+        "y": 1623
+      },
+      {
+        "x": 332,
+        "y": 1650
+      },
+      {
+        "x": 530,
+        "y": 2405
+      },
+      {
+        "x": 956,
+        "y": 569
+      },
+      {
+        "x": 362,
+        "y": 585
+      }
+    ],
+    "hintUrl": "images/122/hint.jpg",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "123",
+    "title": "The tree that flows with water",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/123/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/123/1179x2556.jpg",
+      "large": "images/123/1320x2868.jpg",
+      "ipad": "images/123/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 855,
+        "y": 927
+      },
+      {
+        "x": 772,
+        "y": 2638
+      },
+      {
+        "x": 490,
+        "y": 512
+      },
+      {
+        "x": 950,
+        "y": 152
+      },
+      {
+        "x": 1017,
+        "y": 1888
+      }
+    ],
+    "hintUrl": "images/123/hint.jpg",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "124",
+    "title": "Hello, cat",
+    "category": "Animal",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/124/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/124/1179x2556.jpg",
+      "large": "images/124/1320x2868.jpg",
+      "ipad": "images/124/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 577,
+        "y": 922
+      },
+      {
+        "x": 176,
+        "y": 293
+      },
+      {
+        "x": 372,
+        "y": 1231
+      },
+      {
+        "x": 1035,
+        "y": 668
+      },
+      {
+        "x": 366,
+        "y": 2089
+      }
+    ],
+    "hintUrl": "images/124/hint.jpg",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "125",
+    "title": "A man wearing monochrome clothing",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/125/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/125/1179x2556.jpg",
+      "large": "images/125/1320x2868.jpg",
+      "ipad": "images/125/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 270,
+        "y": 1105
+      },
+      {
+        "x": 1102,
+        "y": 303
+      },
+      {
+        "x": 287,
+        "y": 1965
+      },
+      {
+        "x": 935,
+        "y": 1299
+      },
+      {
+        "x": 943,
+        "y": 2193
+      }
+    ],
+    "hintUrl": "images/125/hint.jpg",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "126",
+    "title": "The orange staircase",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/126/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/126/1179x2556.jpg",
+      "large": "images/126/1320x2868.jpg",
+      "ipad": "images/126/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1006,
+        "y": 787
+      },
+      {
+        "x": 277,
+        "y": 2545
+      },
+      {
+        "x": 1133,
+        "y": 1172
+      },
+      {
+        "x": 296,
+        "y": 333
+      },
+      {
+        "x": 233,
+        "y": 890
+      }
+    ],
+    "hintUrl": "images/126/hint.jpg",
+    "date": "2026-04-10"
   }
 ]
