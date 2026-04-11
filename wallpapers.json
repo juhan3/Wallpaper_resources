@@ -5094,5 +5094,77 @@
     ],
     "hintUrl": "images/144/hint.jpg",
     "date": "2026-04-11"
+  },
+  {
+    "id": "145",
+    "title": "Delicious pancakes",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/145/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/145/1179x2556.jpg",
+      "large": "images/145/1320x2868.jpg",
+      "ipad": "images/145/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 226,
+        "y": 1239
+      },
+      {
+        "x": 856,
+        "y": 1812
+      },
+      {
+        "x": 1137,
+        "y": 2415
+      },
+      {
+        "x": 365,
+        "y": 2290
+      },
+      {
+        "x": 816,
+        "y": 1031
+      }
+    ],
+    "hintUrl": "images/145/hint.jpg",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "146",
+    "title": "Classic cars",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/146/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/146/1179x2556.jpg",
+      "large": "images/146/1320x2868.jpg",
+      "ipad": "images/146/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 348,
+        "y": 2129
+      },
+      {
+        "x": 684,
+        "y": 1119
+      },
+      {
+        "x": 215,
+        "y": 1579
+      },
+      {
+        "x": 1038,
+        "y": 1892
+      },
+      {
+        "x": 1018,
+        "y": 1017
+      }
+    ],
+    "hintUrl": "images/146/hint.jpg",
+    "date": "2026-04-11"
   }
 ]
