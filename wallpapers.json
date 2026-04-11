@@ -792,7 +792,7 @@
   {
     "id": "024",
     "title": "Fireworks Festival",
-    "category": "Night",
+    "category": "Story",
     "designerId": "designer_3",
     "thumbnailUrl": "images/024/thumb.jpg",
     "imageUrl": {
@@ -2373,7 +2373,7 @@
   {
     "id": "069",
     "title": "Night-time party",
-    "category": "Night",
+    "category": "Story",
     "designerId": "designer_3",
     "thumbnailUrl": "images/069/thumb.jpg",
     "imageUrl": {
@@ -2408,7 +2408,7 @@
   {
     "id": "070",
     "title": "It tastes better at night!",
-    "category": "Night",
+    "category": "Story",
     "designerId": "designer_3",
     "thumbnailUrl": "images/070/thumb.jpg",
     "imageUrl": {
@@ -2443,7 +2443,7 @@
   {
     "id": "071",
     "title": "Late-night restaurant",
-    "category": "Night",
+    "category": "Story",
     "designerId": "designer_3",
     "thumbnailUrl": "images/071/thumb.jpg",
     "imageUrl": {
