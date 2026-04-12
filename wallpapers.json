@@ -6364,5 +6364,78 @@
     "hintUrl": "images/179/hint.jpg",
     "date": "2026-04-12",
     "sec": 60
+  },
+  {
+    "id": "180",
+    "title": "library",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/180/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/180/1179x2556.jpg",
+      "large": "images/180/1320x2868.jpg",
+      "ipad": "images/180/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 968,
+        "y": 2394
+      },
+      {
+        "x": 491,
+        "y": 704
+      },
+      {
+        "x": 158,
+        "y": 2188
+      },
+      {
+        "x": 279,
+        "y": 1766
+      },
+      {
+        "x": 262,
+        "y": 2691
+      }
+    ],
+    "hintUrl": "images/180/hint.jpg",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "181",
+    "title": "Seaside Castle",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/181/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/181/1179x2556.jpg",
+      "large": "images/181/1320x2868.jpg",
+      "ipad": "images/181/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 204,
+        "y": 2006
+      },
+      {
+        "x": 706,
+        "y": 2578
+      },
+      {
+        "x": 642,
+        "y": 1587
+      },
+      {
+        "x": 492,
+        "y": 1025
+      },
+      {
+        "x": 1015,
+        "y": 291
+      }
+    ],
+    "hintUrl": "images/181/hint.jpg",
+    "date": "2026-04-12",
+    "sec": 60
   }
 ]
