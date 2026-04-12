@@ -5742,5 +5742,77 @@
     ],
     "hintUrl": "images/162/hint.jpg",
     "date": "2026-04-12"
+  },
+  {
+    "id": "163",
+    "title": "Football",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/163/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/163/1179x2556.jpg",
+      "large": "images/163/1320x2868.jpg",
+      "ipad": "images/163/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 460,
+        "y": 875
+      },
+      {
+        "x": 987,
+        "y": 880
+      },
+      {
+        "x": 692,
+        "y": 1706
+      },
+      {
+        "x": 197,
+        "y": 1562
+      },
+      {
+        "x": 1068,
+        "y": 1599
+      }
+    ],
+    "hintUrl": "images/163/hint.jpg",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "164",
+    "title": "Cosmetics",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/164/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/164/1179x2556.jpg",
+      "large": "images/164/1320x2868.jpg",
+      "ipad": "images/164/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 171,
+        "y": 1156
+      },
+      {
+        "x": 420,
+        "y": 2508
+      },
+      {
+        "x": 1010,
+        "y": 1822
+      },
+      {
+        "x": 656,
+        "y": 1235
+      },
+      {
+        "x": 1152,
+        "y": 1149
+      }
+    ],
+    "hintUrl": "images/164/hint.jpg",
+    "date": "2026-04-13"
   }
 ]
