@@ -5958,5 +5958,77 @@
     ],
     "hintUrl": "images/168/hint.jpg",
     "date": "2026-04-12"
+  },
+  {
+    "id": "169",
+    "title": "construction site",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/169/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/169/1179x2556.jpg",
+      "large": "images/169/1320x2868.jpg",
+      "ipad": "images/169/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 855,
+        "y": 562
+      },
+      {
+        "x": 295,
+        "y": 1153
+      },
+      {
+        "x": 1021,
+        "y": 1364
+      },
+      {
+        "x": 688,
+        "y": 2328
+      },
+      {
+        "x": 401,
+        "y": 594
+      }
+    ],
+    "hintUrl": "images/169/hint.jpg",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "170",
+    "title": "Treasure Island",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/170/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/170/1179x2556.jpg",
+      "large": "images/170/1320x2868.jpg",
+      "ipad": "images/170/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 213,
+        "y": 2497
+      },
+      {
+        "x": 938,
+        "y": 944
+      },
+      {
+        "x": 335,
+        "y": 1250
+      },
+      {
+        "x": 821,
+        "y": 1791
+      },
+      {
+        "x": 412,
+        "y": 582
+      }
+    ],
+    "hintUrl": "images/170/hint.jpg",
+    "date": "2026-04-12"
   }
 ]
