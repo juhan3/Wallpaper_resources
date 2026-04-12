@@ -6548,5 +6548,42 @@
     "hintUrl": "images/184/hint.jpg",
     "date": "2026-04-12",
     "sec": 40
+  },
+  {
+    "id": "185",
+    "title": "Clock",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/185/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/185/1179x2556.jpg",
+      "large": "images/185/1320x2868.jpg",
+      "ipad": "images/185/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 543,
+        "y": 1196
+      },
+      {
+        "x": 1039,
+        "y": 539
+      },
+      {
+        "x": 985,
+        "y": 2195
+      },
+      {
+        "x": 377,
+        "y": 2567
+      },
+      {
+        "x": 458,
+        "y": 255
+      }
+    ],
+    "hintUrl": "images/185/hint.jpg",
+    "date": "2026-04-12",
+    "sec": 40
   }
 ]
