@@ -6178,7 +6178,7 @@
     ],
     "hintUrl": "images/174/hint.jpg",
     "date": "2026-04-12",
-    "sec": 63
+    "sec": 60
   },
   {
     "id": "175",
@@ -6214,6 +6214,44 @@
       }
     ],
     "hintUrl": "images/175/hint.jpg",
-    "date": "2026-04-12"
+    "date": "2026-04-12",
+    "sec": 60
+  },
+  {
+    "id": "176",
+    "title": "Market Alley",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/176/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/176/1179x2556.jpg",
+      "large": "images/176/1320x2868.jpg",
+      "ipad": "images/176/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 526,
+        "y": 709
+      },
+      {
+        "x": 1077,
+        "y": 579
+      },
+      {
+        "x": 422,
+        "y": 286
+      },
+      {
+        "x": 514,
+        "y": 1852
+      },
+      {
+        "x": 785,
+        "y": 2373
+      }
+    ],
+    "hintUrl": "images/176/hint.jpg",
+    "date": "2026-04-12",
+    "sec": 60
   }
 ]
