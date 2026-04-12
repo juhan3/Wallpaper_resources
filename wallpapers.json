@@ -6068,5 +6068,42 @@
     "hintUrl": "images/171/hint.jpg",
     "date": "2026-04-12",
     "sec": 60
+  },
+  {
+    "id": "172",
+    "title": "Pumpkin Festival",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/172/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/172/1179x2556.jpg",
+      "large": "images/172/1320x2868.jpg",
+      "ipad": "images/172/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 597,
+        "y": 1713
+      },
+      {
+        "x": 1213,
+        "y": 534
+      },
+      {
+        "x": 1079,
+        "y": 1505
+      },
+      {
+        "x": 395,
+        "y": 723
+      },
+      {
+        "x": 876,
+        "y": 2459
+      }
+    ],
+    "hintUrl": "images/172/hint.jpg",
+    "date": "2026-04-12",
+    "sec": 60
   }
 ]
