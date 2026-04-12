@@ -6253,5 +6253,42 @@
     "hintUrl": "images/176/hint.jpg",
     "date": "2026-04-12",
     "sec": 60
+  },
+  {
+    "id": "177",
+    "title": "airship",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/177/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/177/1179x2556.jpg",
+      "large": "images/177/1320x2868.jpg",
+      "ipad": "images/177/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 586,
+        "y": 1532
+      },
+      {
+        "x": 444,
+        "y": 441
+      },
+      {
+        "x": 1125,
+        "y": 2271
+      },
+      {
+        "x": 274,
+        "y": 2325
+      },
+      {
+        "x": 1049,
+        "y": 906
+      }
+    ],
+    "hintUrl": "images/177/hint.jpg",
+    "date": "2026-04-12",
+    "sec": 40
   }
 ]
