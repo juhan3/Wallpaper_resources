@@ -6031,5 +6031,42 @@
     "hintUrl": "images/170/hint.jpg",
     "date": "2026-04-12",
     "sec": 60
+  },
+  {
+    "id": "171",
+    "title": "Watch shop",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/171/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/171/1179x2556.jpg",
+      "large": "images/171/1320x2868.jpg",
+      "ipad": "images/171/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1086,
+        "y": 2029
+      },
+      {
+        "x": 862,
+        "y": 1118
+      },
+      {
+        "x": 420,
+        "y": 1750
+      },
+      {
+        "x": 279,
+        "y": 2575
+      },
+      {
+        "x": 620,
+        "y": 555
+      }
+    ],
+    "hintUrl": "images/171/hint.jpg",
+    "date": "2026-04-12",
+    "sec": 60
   }
 ]
