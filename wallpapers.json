@@ -6105,5 +6105,115 @@
     "hintUrl": "images/172/hint.jpg",
     "date": "2026-04-12",
     "sec": 60
+  },
+  {
+    "id": "173",
+    "title": "Observation deck",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/173/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/173/1179x2556.jpg",
+      "large": "images/173/1320x2868.jpg",
+      "ipad": "images/173/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1014,
+        "y": 605
+      },
+      {
+        "x": 547,
+        "y": 2470
+      },
+      {
+        "x": 476,
+        "y": 565
+      },
+      {
+        "x": 149,
+        "y": 979
+      },
+      {
+        "x": 1098,
+        "y": 1366
+      }
+    ],
+    "hintUrl": "images/173/hint.jpg",
+    "date": "2026-04-12",
+    "sec": 60
+  },
+  {
+    "id": "174",
+    "title": "mountain lodge",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/174/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/174/1179x2556.jpg",
+      "large": "images/174/1320x2868.jpg",
+      "ipad": "images/174/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 400,
+        "y": 1787
+      },
+      {
+        "x": 310,
+        "y": 534
+      },
+      {
+        "x": 1020,
+        "y": 810
+      },
+      {
+        "x": 619,
+        "y": 2594
+      },
+      {
+        "x": 566,
+        "y": 1234
+      }
+    ],
+    "hintUrl": "images/174/hint.jpg",
+    "date": "2026-04-12",
+    "sec": 63
+  },
+  {
+    "id": "175",
+    "title": "Garden",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/175/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/175/1179x2556.jpg",
+      "large": "images/175/1320x2868.jpg",
+      "ipad": "images/175/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 1150,
+        "y": 2175
+      },
+      {
+        "x": 1138,
+        "y": 1173
+      },
+      {
+        "x": 510,
+        "y": 354
+      },
+      {
+        "x": 566,
+        "y": 2557
+      },
+      {
+        "x": 264,
+        "y": 1486
+      }
+    ],
+    "hintUrl": "images/175/hint.jpg",
+    "date": "2026-04-12"
   }
 ]
