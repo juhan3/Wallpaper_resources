@@ -5526,5 +5526,221 @@
     ],
     "hintUrl": "images/156/hint.jpg",
     "date": "2026-04-11"
+  },
+  {
+    "id": "157",
+    "title": "robotic arm",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/157/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/157/1179x2556.jpg",
+      "large": "images/157/1320x2868.jpg",
+      "ipad": "images/157/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 325,
+        "y": 1246
+      },
+      {
+        "x": 1052,
+        "y": 2274
+      },
+      {
+        "x": 604,
+        "y": 1992
+      },
+      {
+        "x": 855,
+        "y": 892
+      },
+      {
+        "x": 1111,
+        "y": 1489
+      }
+    ],
+    "hintUrl": "images/157/hint.jpg",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "158",
+    "title": "Hamburger",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/158/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/158/1179x2556.jpg",
+      "large": "images/158/1320x2868.jpg",
+      "ipad": "images/158/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 507,
+        "y": 1052
+      },
+      {
+        "x": 913,
+        "y": 2253
+      },
+      {
+        "x": 992,
+        "y": 601
+      },
+      {
+        "x": 233,
+        "y": 1856
+      },
+      {
+        "x": 1117,
+        "y": 1125
+      }
+    ],
+    "hintUrl": "images/158/hint.jpg",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "159",
+    "title": "globe",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/159/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/159/1179x2556.jpg",
+      "large": "images/159/1320x2868.jpg",
+      "ipad": "images/159/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 331,
+        "y": 1514
+      },
+      {
+        "x": 982,
+        "y": 851
+      },
+      {
+        "x": 427,
+        "y": 794
+      },
+      {
+        "x": 1043,
+        "y": 1440
+      },
+      {
+        "x": 688,
+        "y": 2124
+      }
+    ],
+    "hintUrl": "images/159/hint.jpg",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "160",
+    "title": "Bicycle",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/160/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/160/1179x2556.jpg",
+      "large": "images/160/1320x2868.jpg",
+      "ipad": "images/160/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 234,
+        "y": 2200
+      },
+      {
+        "x": 790,
+        "y": 2163
+      },
+      {
+        "x": 1132,
+        "y": 959
+      },
+      {
+        "x": 251,
+        "y": 1427
+      },
+      {
+        "x": 437,
+        "y": 719
+      }
+    ],
+    "hintUrl": "images/160/hint.jpg",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "161",
+    "title": "microphone",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/161/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/161/1179x2556.jpg",
+      "large": "images/161/1320x2868.jpg",
+      "ipad": "images/161/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 157,
+        "y": 1851
+      },
+      {
+        "x": 866,
+        "y": 705
+      },
+      {
+        "x": 689,
+        "y": 2171
+      },
+      {
+        "x": 369,
+        "y": 1478
+      },
+      {
+        "x": 972,
+        "y": 1243
+      }
+    ],
+    "hintUrl": "images/161/hint.jpg",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "162",
+    "title": "Sushi",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/162/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/162/1179x2556.jpg",
+      "large": "images/162/1320x2868.jpg",
+      "ipad": "images/162/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 276,
+        "y": 1281
+      },
+      {
+        "x": 365,
+        "y": 2525
+      },
+      {
+        "x": 1066,
+        "y": 2230
+      },
+      {
+        "x": 923,
+        "y": 768
+      },
+      {
+        "x": 959,
+        "y": 1317
+      }
+    ],
+    "hintUrl": "images/162/hint.jpg",
+    "date": "2026-04-12"
   }
 ]
