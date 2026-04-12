@@ -6290,5 +6290,79 @@
     "hintUrl": "images/177/hint.jpg",
     "date": "2026-04-12",
     "sec": 40
+  },
+  {
+    "id": "178",
+    "title": "A huge tree",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/178/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/178/1179x2556.jpg",
+      "large": "images/178/1320x2868.jpg",
+      "ipad": "images/178/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 576,
+        "y": 726
+      },
+      {
+        "x": 829,
+        "y": 1844
+      },
+      {
+        "x": 899,
+        "y": 2561
+      },
+      {
+        "x": 1220,
+        "y": 519
+      },
+      {
+        "x": 374,
+        "y": 380
+      }
+    ],
+    "hintUrl": "images/178/hint.jpg",
+    "date": "2026-04-12",
+    "sec": 60
+  },
+  {
+    "id": "179",
+    "title": "Cooking",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/179/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/179/1179x2556.jpg",
+      "large": "images/179/1320x2868.jpg",
+      "ipad": "images/179/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 299,
+        "y": 141
+      },
+      {
+        "x": 1167,
+        "y": 1558
+      },
+      {
+        "x": 570,
+        "y": 2642
+      },
+      {
+        "x": 409,
+        "y": 1593
+      },
+      {
+        "x": 1107,
+        "y": 2541
+      }
+    ],
+    "hintUrl": "images/179/hint.jpg",
+    "date": "2026-04-12",
+    "sec": 60
   }
 ]
