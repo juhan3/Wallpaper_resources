@@ -7128,5 +7128,41 @@
     ],
     "hintUrl": "images/200/hint.jpg",
     "date": "2026-04-13"
+  },
+  {
+    "id": "201",
+    "title": "A little house in the woods",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/201/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/201/1179x2556.jpg",
+      "large": "images/201/1320x2868.jpg",
+      "ipad": "images/201/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 789,
+        "y": 194
+      },
+      {
+        "x": 278,
+        "y": 1294
+      },
+      {
+        "x": 771,
+        "y": 2198
+      },
+      {
+        "x": 236,
+        "y": 424
+      },
+      {
+        "x": 704,
+        "y": 579
+      }
+    ],
+    "hintUrl": "images/201/hint.jpg",
+    "date": "2026-04-13"
   }
 ]
