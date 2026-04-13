@@ -7056,5 +7056,77 @@
     ],
     "hintUrl": "images/198/hint.jpg",
     "date": "2026-04-13"
+  },
+  {
+    "id": "199",
+    "title": "string instrument",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/199/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/199/1179x2556.jpg",
+      "large": "images/199/1320x2868.jpg",
+      "ipad": "images/199/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 934,
+        "y": 2113
+      },
+      {
+        "x": 303,
+        "y": 266
+      },
+      {
+        "x": 310,
+        "y": 1301
+      },
+      {
+        "x": 1018,
+        "y": 381
+      },
+      {
+        "x": 967,
+        "y": 911
+      }
+    ],
+    "hintUrl": "images/199/hint.jpg",
+    "date": "2026-04-13"
+  },
+  {
+    "id": "200",
+    "title": "Wind-up watch",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/200/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/200/1179x2556.jpg",
+      "large": "images/200/1320x2868.jpg",
+      "ipad": "images/200/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 981,
+        "y": 2243
+      },
+      {
+        "x": 423,
+        "y": 918
+      },
+      {
+        "x": 633,
+        "y": 474
+      },
+      {
+        "x": 924,
+        "y": 1097
+      },
+      {
+        "x": 259,
+        "y": 1748
+      }
+    ],
+    "hintUrl": "images/200/hint.jpg",
+    "date": "2026-04-13"
   }
 ]
