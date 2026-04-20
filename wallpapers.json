@@ -7164,5 +7164,257 @@
     ],
     "hintUrl": "images/201/hint.jpg",
     "date": "2026-04-13"
+  },
+  {
+    "id": "202",
+    "title": "Lighthouse",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/202/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/202/1179x2556.jpg",
+      "large": "images/202/1320x2868.jpg",
+      "ipad": "images/202/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 669,
+        "y": 1916
+      },
+      {
+        "x": 1125,
+        "y": 1465
+      },
+      {
+        "x": 1040,
+        "y": 2520
+      },
+      {
+        "x": 772,
+        "y": 481
+      },
+      {
+        "x": 174,
+        "y": 1068
+      }
+    ],
+    "hintUrl": "images/202/hint.jpg",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "203",
+    "title": "port",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/203/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/203/1179x2556.jpg",
+      "large": "images/203/1320x2868.jpg",
+      "ipad": "images/203/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 428,
+        "y": 2614
+      },
+      {
+        "x": 962,
+        "y": 865
+      },
+      {
+        "x": 931,
+        "y": 1936
+      },
+      {
+        "x": 159,
+        "y": 1798
+      },
+      {
+        "x": 283,
+        "y": 580
+      }
+    ],
+    "hintUrl": "images/203/hint.jpg",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "204",
+    "title": "The Secret Forest",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/204/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/204/1179x2556.jpg",
+      "large": "images/204/1320x2868.jpg",
+      "ipad": "images/204/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 805,
+        "y": 2346
+      },
+      {
+        "x": 852,
+        "y": 739
+      },
+      {
+        "x": 411,
+        "y": 405
+      },
+      {
+        "x": 207,
+        "y": 1417
+      },
+      {
+        "x": 459,
+        "y": 1991
+      }
+    ],
+    "hintUrl": "images/204/hint.jpg",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "205",
+    "title": "Campfire",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/205/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/205/1179x2556.jpg",
+      "large": "images/205/1320x2868.jpg",
+      "ipad": "images/205/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 395,
+        "y": 2325
+      },
+      {
+        "x": 1064,
+        "y": 477
+      },
+      {
+        "x": 914,
+        "y": 1865
+      },
+      {
+        "x": 230,
+        "y": 1517
+      },
+      {
+        "x": 376,
+        "y": 832
+      }
+    ],
+    "hintUrl": "images/205/hint.jpg",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "206",
+    "title": "A Cat's Nap",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/206/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/206/1179x2556.jpg",
+      "large": "images/206/1320x2868.jpg",
+      "ipad": "images/206/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 275,
+        "y": 1755
+      },
+      {
+        "x": 962,
+        "y": 925
+      },
+      {
+        "x": 769,
+        "y": 1979
+      },
+      {
+        "x": 672,
+        "y": 562
+      },
+      {
+        "x": 247,
+        "y": 388
+      }
+    ],
+    "hintUrl": "images/206/hint.jpg",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "207",
+    "title": "Treasure Ship",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/207/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/207/1179x2556.jpg",
+      "large": "images/207/1320x2868.jpg",
+      "ipad": "images/207/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 481,
+        "y": 2410
+      },
+      {
+        "x": 1186,
+        "y": 1306
+      },
+      {
+        "x": 689,
+        "y": 645
+      },
+      {
+        "x": 532,
+        "y": 2000
+      },
+      {
+        "x": 925,
+        "y": 2374
+      }
+    ],
+    "hintUrl": "images/207/hint.jpg",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "208",
+    "title": "Mailbox",
+    "category": "Story",
+    "designerId": "designer_3",
+    "thumbnailUrl": "images/208/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/208/1179x2556.jpg",
+      "large": "images/208/1320x2868.jpg",
+      "ipad": "images/208/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 207,
+        "y": 446
+      },
+      {
+        "x": 1110,
+        "y": 1935
+      },
+      {
+        "x": 205,
+        "y": 2058
+      },
+      {
+        "x": 569,
+        "y": 1339
+      },
+      {
+        "x": 972,
+        "y": 2632
+      }
+    ],
+    "hintUrl": "images/208/hint.jpg",
+    "date": "2026-04-20"
   }
 ]
