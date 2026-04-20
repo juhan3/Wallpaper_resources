@@ -7416,5 +7416,41 @@
     ],
     "hintUrl": "images/208/hint.jpg",
     "date": "2026-04-20"
+  },
+  {
+    "id": "209",
+    "title": "Building",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/209/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/209/1179x2556.jpg",
+      "large": "images/209/1320x2868.jpg",
+      "ipad": "images/209/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 499,
+        "y": 2495
+      },
+      {
+        "x": 665,
+        "y": 389
+      },
+      {
+        "x": 1026,
+        "y": 2244
+      },
+      {
+        "x": 243,
+        "y": 1330
+      },
+      {
+        "x": 599,
+        "y": 1875
+      }
+    ],
+    "hintUrl": "images/209/hint.jpg",
+    "date": "2026-04-20"
   }
 ]
