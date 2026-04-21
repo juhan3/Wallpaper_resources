@@ -7452,5 +7452,41 @@
     ],
     "hintUrl": "images/209/hint.jpg",
     "date": "2026-04-20"
+  },
+  {
+    "id": "210",
+    "title": "pizza",
+    "category": "Realistic",
+    "designerId": "designer_2",
+    "thumbnailUrl": "images/210/thumb.jpg",
+    "imageUrl": {
+      "standard": "images/210/1179x2556.jpg",
+      "large": "images/210/1320x2868.jpg",
+      "ipad": "images/210/2048x2732.jpg"
+    },
+    "spots": [
+      {
+        "x": 995,
+        "y": 1272
+      },
+      {
+        "x": 981,
+        "y": 2516
+      },
+      {
+        "x": 512,
+        "y": 1566
+      },
+      {
+        "x": 238,
+        "y": 2505
+      },
+      {
+        "x": 984,
+        "y": 504
+      }
+    ],
+    "hintUrl": "images/210/hint.jpg",
+    "date": "2026-04-21"
   }
 ]
