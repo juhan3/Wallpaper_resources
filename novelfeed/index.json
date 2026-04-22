@@ -1,6 +1,7 @@
 {
   "Action": [
-    "1.png"
+    "1.png",
+    "2.png"
   ],
   "Default": [
     "1.png",
@@ -27,7 +28,8 @@
     "18.png"
   ],
   "Food": [
-    "1.png"
+    "1.png",
+    "2.png"
   ],
   "Object": [
     "1.png",
@@ -58,7 +60,12 @@
     "21.png",
     "22.png",
     "23.png",
-    "24.png"
+    "24.png",
+    "25.png",
+    "26.png",
+    "27.png",
+    "28.png",
+    "29.png"
   ],
   "BL": [
     "1.png",
@@ -111,11 +118,14 @@
     "16.png",
     "17.png",
     "18.png",
-    "19.png"
+    "19.png",
+    "20.png"
   ],
   "Sci-Fi": [
     "1.png",
-    "2.png"
+    "2.png",
+    "3.png",
+    "4.png"
   ],
   "Comedy": [],
   "DailyLife": [],
