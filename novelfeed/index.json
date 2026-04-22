@@ -1,7 +1,8 @@
 {
   "Action": [
     "1.png",
-    "2.png"
+    "2.png",
+    "3.png"
   ],
   "Default": [
     "1.png",
@@ -84,7 +85,8 @@
     "14.png",
     "15.png",
     "16.png",
-    "17.png"
+    "17.png",
+    "18.png"
   ],
   "GL": [
     "1.png",
@@ -119,18 +121,24 @@
     "17.png",
     "18.png",
     "19.png",
-    "20.png"
+    "20.png",
+    "21.png"
   ],
   "Sci-Fi": [
     "1.png",
     "2.png",
     "3.png",
-    "4.png"
+    "4.png",
+    "5.png"
   ],
-  "Comedy": [],
+  "Comedy": [
+    "1.png",
+    "2.png"
+  ],
   "DailyLife": [],
   "Fantasy": [
-    "1.png"
+    "1.png",
+    "2.png"
   ],
   "Horror": [],
   "Mystery": [],
