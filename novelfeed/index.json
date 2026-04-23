@@ -2,7 +2,8 @@
   "Action": [
     "1.png",
     "2.png",
-    "3.png"
+    "3.png",
+    "4.png"
   ],
   "Default": [
     "1.png",
@@ -66,7 +67,9 @@
     "26.png",
     "27.png",
     "28.png",
-    "29.png"
+    "29.png",
+    "30.png",
+    "31.png"
   ],
   "BL": [
     "1.png",
@@ -86,7 +89,8 @@
     "15.png",
     "16.png",
     "17.png",
-    "18.png"
+    "18.png",
+    "19.png"
   ],
   "GL": [
     "1.png",
@@ -122,14 +126,17 @@
     "18.png",
     "19.png",
     "20.png",
-    "21.png"
+    "21.png",
+    "22.png",
+    "23.png"
   ],
   "Sci-Fi": [
     "1.png",
     "2.png",
     "3.png",
     "4.png",
-    "5.png"
+    "5.png",
+    "6.png"
   ],
   "Comedy": [
     "1.png",
@@ -138,10 +145,17 @@
   "DailyLife": [],
   "Fantasy": [
     "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "Horror": [
+    "1.png"
+  ],
+  "Mystery": [
+    "1.png",
     "2.png"
   ],
-  "Horror": [],
-  "Mystery": [],
   "Romance": [],
   "Thriller": []
 }
