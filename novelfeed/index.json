@@ -1888,7 +1888,20 @@
     "3-2.png",
     "3-1.png"
   ],
-  "DailyLife": [],
+  "DailyLife": [
+    "1-1.png",
+    "1-2.png",
+    {
+      "file": "1.png",
+      "tags": [
+        "혼성",
+        "남녀",
+        "회사"
+      ]
+    },
+    "1-3.png",
+    "1-4.png"
+  ],
   "Fantasy": [
     {
       "file": "1.png",
