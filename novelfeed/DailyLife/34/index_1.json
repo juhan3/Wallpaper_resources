@@ -1,5 +1,6 @@
 {
-  "50": [
+  "emoticons": ["laughing", "confused", "angry", "celebrating","cheerup","love",  "sad","surprised"  ],    
+  "50": 
     {
       "keyword": "먼지는 지금 뭐해?",
       "desc": "민준이가 찍어준 먼지와 함께 찍은 사진 먼지는 싫은지 표정을 찡그리고 있다",
