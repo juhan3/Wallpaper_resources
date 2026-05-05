@@ -1,5 +1,12 @@
 {
   "emoticons": ["laughing", "confused", "hello","cheerup","love","surprised","like","nice"  ],    
+  "30": [
+    {
+      "keyword": "운동",
+      "desc": "검은 민소매에 런닝을하다가 땀이난 모습으로 지나가던 고양이와 셀카를 찍고있다.",
+      "file": "12.png"
+    }
+  ],
   "35": [
     {
       "keyword": "브이",
