@@ -699,7 +699,11 @@
       "file": "102-1.png"
     },
     {
-      "file": "102.png"
+      "file": "102.png",
+      "tags": [
+        "Dangerous"
+      ],
+      "lang": "ko"
     },
     {
       "file": "101.png",
@@ -2997,6 +3001,16 @@
   ],
   "Sci-Fi": [
     {
+      "file": "23-1.png"
+    },
+    {
+      "file": "23.png",
+      "tags": [
+        "Machine"
+      ],
+      "lang": "en"
+    },
+    {
       "file": "22.png",
       "tags": [
         "future",
@@ -3432,6 +3446,31 @@
     }
   ],
   "DailyLife": [
+    {
+      "file": "47-5.png"
+    },
+    {
+      "file": "47-6.png"
+    },
+    {
+      "file": "47-2.png"
+    },
+    {
+      "file": "47.png",
+      "tags": [
+        "Exercise"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "47-4.png"
+    },
+    {
+      "file": "47-3.png"
+    },
+    {
+      "file": "47-1.png"
+    },
     {
       "file": "46-1.png"
     },
@@ -5186,6 +5225,19 @@
     }
   ],
   "Romance": [
+    {
+      "file": "13-2.png"
+    },
+    {
+      "file": "13.png",
+      "tags": [
+        "Couple"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "13-1.png"
+    },
     {
       "file": "12-1.png"
     },
