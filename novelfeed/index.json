@@ -5120,6 +5120,19 @@
   ],
   "Romance": [
     {
+      "file": "11-1.png"
+    },
+    {
+      "file": "11-2.png"
+    },
+    {
+      "file": "11.png",
+      "tags": [
+        "Romance"
+      ],
+      "lang": "en"
+    },
+    {
       "file": "10-2.png"
     },
     {
