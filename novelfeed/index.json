@@ -2610,6 +2610,16 @@
   ],
   "Woman": [
     {
+      "file": "44-1.png"
+    },
+    {
+      "file": "44.png",
+      "tags": [
+        "Warrior"
+      ],
+      "lang": "en"
+    },
+    {
       "file": "43.png",
       "tags": [
         "Robot"
@@ -4305,6 +4315,16 @@
     }
   ],
   "Fantasy": [
+    {
+      "file": "47.png",
+      "tags": [
+        "sea"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "47-1.png"
+    },
     {
       "file": "46-1.png"
     },
