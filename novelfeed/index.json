@@ -4306,6 +4306,16 @@
   ],
   "Fantasy": [
     {
+      "file": "46-1.png"
+    },
+    {
+      "file": "46.png",
+      "tags": [
+        "sea"
+      ],
+      "lang": "en"
+    },
+    {
       "file": "45.png",
       "tags": [
         "Sea"
