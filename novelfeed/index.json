@@ -2968,6 +2968,20 @@
   ],
   "Sci-Fi": [
     {
+      "file": "21-1.png"
+    },
+    {
+      "file": "21.png",
+      "tags": [
+        "Future",
+        "robot"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "21-2.png"
+    },
+    {
       "file": "20.png",
       "tags": [
         "지구",
