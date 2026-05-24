@@ -2587,6 +2587,16 @@
   ],
   "Woman": [
     {
+      "file": "41.png",
+      "tags": [
+        "Makeup"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "41-1.png"
+    },
+    {
       "file": "40-1.png"
     },
     {
