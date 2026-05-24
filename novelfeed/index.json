@@ -4185,6 +4185,13 @@
   ],
   "Fantasy": [
     {
+      "file": "42-1.png"
+    },
+    {
+      "file": "42.png",
+      "lang": "en"
+    },
+    {
       "file": "41-3.png"
     },
     {
@@ -5119,6 +5126,22 @@
     }
   ],
   "Romance": [
+    {
+      "file": "12-1.png"
+    },
+    {
+      "file": "12-2.png"
+    },
+    {
+      "file": "12-3.png"
+    },
+    {
+      "file": "12.png",
+      "tags": [
+        "couple"
+      ],
+      "lang": "en"
+    },
     {
       "file": "11-1.png"
     },
