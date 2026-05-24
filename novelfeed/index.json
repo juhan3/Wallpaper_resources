@@ -2600,6 +2600,16 @@
   ],
   "Woman": [
     {
+      "file": "42-1.png"
+    },
+    {
+      "file": "42.png",
+      "tags": [
+        "Space"
+      ],
+      "lang": "en"
+    },
+    {
       "file": "41.png",
       "tags": [
         "Makeup"
