@@ -4214,6 +4214,26 @@
   ],
   "Fantasy": [
     {
+      "file": "44-4.png"
+    },
+    {
+      "file": "44-2.png"
+    },
+    {
+      "file": "44-3.png"
+    },
+    {
+      "file": "44-1.png"
+    },
+    {
+      "file": "44.png",
+      "tags": [
+        "hero",
+        "future"
+      ],
+      "lang": "en"
+    },
+    {
       "file": "43-1.png"
     },
     {
