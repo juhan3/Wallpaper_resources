@@ -5069,6 +5069,19 @@
   ],
   "Romance": [
     {
+      "file": "8-2.png"
+    },
+    {
+      "file": "8-1.png"
+    },
+    {
+      "file": "8.png",
+      "tags": [
+        "Vampire"
+      ],
+      "lang": "en"
+    },
+    {
       "file": "7.png",
       "tags": [
         "dress",
