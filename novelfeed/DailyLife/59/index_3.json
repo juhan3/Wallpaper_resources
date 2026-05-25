@@ -8,7 +8,7 @@
   ],
   "10": [
     {
-      "keyword": "Do you like Korean food?",
+      "keyword": "Korean food",
       "desc": "A photo of Junsu eating budae jjigae at a Korean restaurant",
       "file": "3.png"
     }
@@ -22,9 +22,16 @@
   ],
   "30": [
     {
-      "keyword": "I'm hungry",
+      "keyword": "hungry",
       "desc": "A photo of Junsu eating chocolate ice cream in the dorm",
       "file": "2.png"
+    }
+  ],
+  "35": [
+    {
+      "keyword": "weather is nice",
+      "desc": "A photo of Junsu taken while riding a bike, wearing a torn pair of jeans, with his shirt off, a backpack on, and a shirt tied around his waist",
+      "file": "5.png"
     }
   ]
 }
