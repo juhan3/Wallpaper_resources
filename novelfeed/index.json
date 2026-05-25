@@ -2018,7 +2018,12 @@
       "file": "29-1.png"
     },
     {
-      "file": "29.png"
+      "file": "29.png",
+      "tags": [
+        "Exercise",
+        "Conflict"
+      ],
+      "lang": "en"
     },
     {
       "file": "29-4.png"
