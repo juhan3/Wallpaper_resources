@@ -6141,10 +6141,40 @@
   ],
   "Thriller": [
     {
+      "file": "16-1.png"
+    },
+    {
+      "file": "16-1-1.png"
+    },
+    {
+      "file": "16.png",
+      "tags": [
+        "blind",
+        "thriller"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "15-1.png"
+    },
+    {
+      "file": "15-1-1.png"
+    },
+    {
+      "file": "15.png",
+      "tags": [
+        "Mafia",
+        "Thriller",
+        "blind"
+      ],
+      "lang": "en"
+    },
+    {
       "file": "14.png",
       "tags": [
         "Suit",
-        "Blind"
+        "Blind",
+        "thriller"
       ],
       "lang": "en"
     },
