@@ -4772,6 +4772,38 @@
   ],
   "Fantasy": [
     {
+      "file": "60.png",
+      "tags": [
+        "elf"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "60-2.png"
+    },
+    {
+      "file": "60-1.png"
+    },
+    {
+      "file": "60-3.png"
+    },
+    {
+      "file": "59.png",
+      "tags": [
+        "elf"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "59-1.png"
+    },
+    {
+      "file": "59-2.png"
+    },
+    {
+      "file": "59-3.png"
+    },
+    {
       "file": "58.png",
       "tags": [
         "elf"
