@@ -1,6 +1,16 @@
 {
   "Action": [
     {
+      "file": "15-1.png"
+    },
+    {
+      "file": "15.png",
+      "tags": [
+        "Sword"
+      ],
+      "lang": "en"
+    },
+    {
       "file": "14-1.png"
     },
     {
