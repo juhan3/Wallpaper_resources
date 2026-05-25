@@ -61,5 +61,26 @@
       "desc": "A beach photo with Carter; Junsu is leaning on Carter's shoulder.",
       "file": "7.png"
     }
+  ],
+  "60": [
+    {
+      "keyword": "Good night",
+      "desc": "A selfie I took in bed wearing a white tank top with the flash on",
+      "file": "12.png"
+    }
+  ],
+  "70": [
+    {
+      "keyword": "bored",
+      "desc": "A selfie I took in front of the mirror wearing a sports tank top and shorts",
+      "file": "11.png"
+    }
+  ],
+  "100": [
+    {
+      "keyword": "Sofa",
+      "desc": "A photo of myself sitting on the couch, dressed casually in a white tank top and short white pants",
+      "file": "10.png"
+    }
   ]
 }
