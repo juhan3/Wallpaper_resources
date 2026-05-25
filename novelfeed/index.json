@@ -2009,6 +2009,24 @@
   ],
   "BL": [
     {
+      "file": "29-2.png"
+    },
+    {
+      "file": "29-3.png"
+    },
+    {
+      "file": "29-1.png"
+    },
+    {
+      "file": "29.png"
+    },
+    {
+      "file": "29-4.png"
+    },
+    {
+      "file": "29-5.png"
+    },
+    {
       "file": "28-1.png"
     },
     {
@@ -3429,6 +3447,29 @@
   ],
   "Comedy": [
     {
+      "file": "6-5.png"
+    },
+    {
+      "file": "6-4.png"
+    },
+    {
+      "file": "6-2.png"
+    },
+    {
+      "file": "6-1.png"
+    },
+    {
+      "file": "6-3.png"
+    },
+    {
+      "file": "6.png",
+      "tags": [
+        "Security",
+        "guard"
+      ],
+      "lang": "en"
+    },
+    {
       "file": "5.png",
       "title": "#사표 #직장",
       "tags": [
@@ -3519,6 +3560,78 @@
     }
   ],
   "DailyLife": [
+    {
+      "file": "60.png",
+      "tags": [
+        "college",
+        "friends"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "60-4.png"
+    },
+    {
+      "file": "60-5.png"
+    },
+    {
+      "file": "60-2.png"
+    },
+    {
+      "file": "60-1.png"
+    },
+    {
+      "file": "60-3.png"
+    },
+    {
+      "file": "59.png",
+      "tags": [
+        "college",
+        "friends"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "59-3.png"
+    },
+    {
+      "file": "59-2.png"
+    },
+    {
+      "file": "59-1.png"
+    },
+    {
+      "file": "59-4.png"
+    },
+    {
+      "file": "59-5.png"
+    },
+    {
+      "file": "58.png",
+      "tags": [
+        "college",
+        "friends"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "58-3.png"
+    },
+    {
+      "file": "58-1.png"
+    },
+    {
+      "file": "58-2.png"
+    },
+    {
+      "file": "58-5.png"
+    },
+    {
+      "file": "58-4.png"
+    },
+    {
+      "file": "58-6.png"
+    },
     {
       "file": "57-1.png"
     },
