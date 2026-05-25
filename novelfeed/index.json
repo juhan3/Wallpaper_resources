@@ -4772,6 +4772,86 @@
   ],
   "Fantasy": [
     {
+      "file": "52-2.png"
+    },
+    {
+      "file": "52-1.png"
+    },
+    {
+      "file": "52.png",
+      "tags": [
+        "Wolf",
+        "Vampire"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "51-1.png"
+    },
+    {
+      "file": "51-3.png"
+    },
+    {
+      "file": "51-2.png"
+    },
+    {
+      "file": "51.png",
+      "tags": [
+        "Wolf",
+        "Vampire"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "50-3.png"
+    },
+    {
+      "file": "50-2.png"
+    },
+    {
+      "file": "50-4.png"
+    },
+    {
+      "file": "50-1.png"
+    },
+    {
+      "file": "50.png",
+      "tags": [
+        "Wolf"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "49-1.png"
+    },
+    {
+      "file": "49.png",
+      "tags": [
+        "Wolf",
+        "Vampire"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "49-2.png"
+    },
+    {
+      "file": "48.png",
+      "tags": [
+        "Wolf"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "48-2.png"
+    },
+    {
+      "file": "48-3.png"
+    },
+    {
+      "file": "48-1.png"
+    },
+    {
       "file": "47.png",
       "tags": [
         "sea"
