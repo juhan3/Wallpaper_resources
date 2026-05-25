@@ -4772,6 +4772,36 @@
   ],
   "Fantasy": [
     {
+      "file": "58.png",
+      "tags": [
+        "elf"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "58-3.png"
+    },
+    {
+      "file": "58-2.png"
+    },
+    {
+      "file": "58-1.png"
+    },
+    {
+      "file": "57-1.png"
+    },
+    {
+      "file": "57-2.png"
+    },
+    {
+      "file": "57.png",
+      "tags": [
+        "Elf",
+        "Gladiator"
+      ],
+      "lang": "en"
+    },
+    {
       "file": "56-2.png"
     },
     {
