@@ -6019,6 +6019,19 @@
   ],
   "Romance": [
     {
+      "file": "21.png",
+      "tags": [
+        "Garden"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "21-1.png"
+    },
+    {
+      "file": "21-2.png"
+    },
+    {
       "file": "20.png",
       "tags": [
         "Love",
