@@ -6059,6 +6059,32 @@
   ],
   "Romance": [
     {
+      "file": "24.png",
+      "tags": [
+        "Art"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "24-2.png"
+    },
+    {
+      "file": "24-1.png"
+    },
+    {
+      "file": "23-2.png"
+    },
+    {
+      "file": "23-1.png"
+    },
+    {
+      "file": "23.png",
+      "tags": [
+        "Island"
+      ],
+      "lang": "en"
+    },
+    {
       "file": "22.png",
       "tags": [
         "Football",
