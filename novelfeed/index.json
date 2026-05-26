@@ -3577,6 +3577,19 @@
   ],
   "DailyLife": [
     {
+      "file": "65.png",
+      "tags": [
+        "Baseball"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "65-1.png"
+    },
+    {
+      "file": "65-2.png"
+    },
+    {
       "file": "64.png",
       "tags": [
         "Friends"
@@ -4782,6 +4795,33 @@
     }
   ],
   "Fantasy": [
+    {
+      "file": "64.png",
+      "tags": [
+        "Centaurus",
+        "Magic"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "64-1.png"
+    },
+    {
+      "file": "64-2.png"
+    },
+    {
+      "file": "63.png",
+      "tags": [
+        "Pirate"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "63-2.png"
+    },
+    {
+      "file": "63-1.png"
+    },
     {
       "file": "62.png",
       "tags": [
@@ -6018,6 +6058,20 @@
     }
   ],
   "Romance": [
+    {
+      "file": "22.png",
+      "tags": [
+        "Football",
+        "Sports"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "22-1.png"
+    },
+    {
+      "file": "22-2.png"
+    },
     {
       "file": "21.png",
       "tags": [
