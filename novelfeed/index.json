@@ -4796,7 +4796,17 @@
   ],
   "Fantasy": [
     {
-      "file": "66-1-1.png"
+      "file": "67.png",
+      "tags": [
+        "Humanoid"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "67-1.png"
+    },
+    {
+      "file": "67-2.png"
     },
     {
       "file": "66.png",
@@ -4807,6 +4817,9 @@
     },
     {
       "file": "66-1.png"
+    },
+    {
+      "file": "66-2.png"
     },
     {
       "file": "65.png",
