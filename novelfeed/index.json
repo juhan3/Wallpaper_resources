@@ -4796,6 +4796,38 @@
   ],
   "Fantasy": [
     {
+      "file": "66-1-1.png"
+    },
+    {
+      "file": "66.png",
+      "tags": [
+        "Space"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "66-1.png"
+    },
+    {
+      "file": "65.png",
+      "tags": [
+        "Desert"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "65-2.png"
+    },
+    {
+      "file": "65-3.png"
+    },
+    {
+      "file": "65-1.png"
+    },
+    {
+      "file": "65-4.png"
+    },
+    {
       "file": "64.png",
       "tags": [
         "Centaurus",
