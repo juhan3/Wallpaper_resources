@@ -3621,6 +3621,81 @@
   ],
   "DailyLife": [
     {
+      "file": "69-1.png"
+    },
+    {
+      "file": "69-2.png"
+    },
+    {
+      "file": "69.png",
+      "tags": [
+        "Music",
+        "Violin",
+        "Cello"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "68-4.png"
+    },
+    {
+      "file": "68-2.png"
+    },
+    {
+      "file": "68-1.png"
+    },
+    {
+      "file": "68-3.png"
+    },
+    {
+      "file": "68.png",
+      "tags": [
+        "농구",
+        "스포츠"
+      ],
+      "lang": "ko"
+    },
+    {
+      "file": "67.png",
+      "tags": [
+        "Sports",
+        "Basketball"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "67-1.png"
+    },
+    {
+      "file": "67-2.png"
+    },
+    {
+      "file": "67-3.png"
+    },
+    {
+      "file": "67-4.png"
+    },
+    {
+      "file": "66.png",
+      "tags": [
+        "스포츠",
+        "농구"
+      ],
+      "lang": "ko"
+    },
+    {
+      "file": "66-2.png"
+    },
+    {
+      "file": "66-3.png"
+    },
+    {
+      "file": "66-1.png"
+    },
+    {
+      "file": "66-4.png"
+    },
+    {
       "file": "65.png",
       "tags": [
         "Baseball"
