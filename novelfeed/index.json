@@ -709,6 +709,26 @@
   ],
   "Man": [
     {
+      "file": "108.png",
+      "tags": [
+        "농구"
+      ],
+      "lang": "ko"
+    },
+    {
+      "file": "108-1.png"
+    },
+    {
+      "file": "107.png",
+      "tags": [
+        "생존"
+      ],
+      "lang": "ko"
+    },
+    {
+      "file": "107-1.png"
+    },
+    {
       "file": "106-1.png"
     },
     {
@@ -6477,6 +6497,33 @@
     }
   ],
   "Thriller": [
+    {
+      "file": "20.png",
+      "tags": [
+        "위험한"
+      ],
+      "lang": "ko"
+    },
+    {
+      "file": "20-2.png"
+    },
+    {
+      "file": "20-1.png"
+    },
+    {
+      "file": "19-1.png"
+    },
+    {
+      "file": "19-2.png"
+    },
+    {
+      "file": "19.png",
+      "tags": [
+        "Danger",
+        "stranger"
+      ],
+      "lang": "en"
+    },
     {
       "file": "18-2.png"
     },
