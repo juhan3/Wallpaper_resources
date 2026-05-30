@@ -2050,6 +2050,59 @@
   ],
   "BL": [
     {
+      "file": "34-2.png"
+    },
+    {
+      "file": "34-1.png"
+    },
+    {
+      "file": "34.png",
+      "tags": [
+        "보스"
+      ],
+      "lang": "ko"
+    },
+    {
+      "file": "33-1.png"
+    },
+    {
+      "file": "33-2.png"
+    },
+    {
+      "file": "33.png",
+      "tags": [
+        "boss",
+        "asian"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "32-2.png"
+    },
+    {
+      "file": "32-1.png"
+    },
+    {
+      "file": "32.png",
+      "tags": [
+        "Photo"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "31-2.png"
+    },
+    {
+      "file": "31-1.png"
+    },
+    {
+      "file": "31.png",
+      "tags": [
+        "사진"
+      ],
+      "lang": "ko"
+    },
+    {
       "file": "30-2.png"
     },
     {
@@ -3620,6 +3673,26 @@
     }
   ],
   "DailyLife": [
+    {
+      "file": "70.png",
+      "tags": [
+        "Cocktail",
+        "bar"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "70-3.png"
+    },
+    {
+      "file": "70-4.png"
+    },
+    {
+      "file": "70-1.png"
+    },
+    {
+      "file": "70-2.png"
+    },
     {
       "file": "69-1.png"
     },
