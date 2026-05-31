@@ -709,6 +709,16 @@
   ],
   "Man": [
     {
+      "file": "110.png",
+      "tags": [
+        "shirt"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "110-1.png"
+    },
+    {
       "file": "108.png",
       "tags": [
         "농구"
