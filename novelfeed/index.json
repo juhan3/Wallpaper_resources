@@ -6374,6 +6374,53 @@
   ],
   "Romance": [
     {
+      "file": "28-2.png"
+    },
+    {
+      "file": "28.png",
+      "tags": [
+        "Mafia",
+        "boss"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "28-1.png"
+    },
+    {
+      "file": "27-1.png"
+    },
+    {
+      "file": "27-2.png"
+    },
+    {
+      "file": "27.png",
+      "tags": [
+        "Boss",
+        "mafia"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "26.png",
+      "tags": [
+        "office"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "26-4.png"
+    },
+    {
+      "file": "26-3.png"
+    },
+    {
+      "file": "26-2.png"
+    },
+    {
+      "file": "26-1.png"
+    },
+    {
       "file": "25-2.png"
     },
     {
