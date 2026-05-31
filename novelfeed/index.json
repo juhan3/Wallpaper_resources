@@ -2070,6 +2070,7 @@
       "tags": [
         "보스"
       ],
+      "video": "34.mp4",
       "lang": "ko"
     },
     {
@@ -2084,6 +2085,7 @@
         "boss",
         "asian"
       ],
+      "video": "33.mp4",
       "lang": "en"
     },
     {
@@ -4997,6 +4999,71 @@
     }
   ],
   "Fantasy": [
+    {
+      "file": "73-1.png"
+    },
+    {
+      "file": "73.png",
+      "tags": [
+        "Superhero"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "73-2.png"
+    },
+    {
+      "file": "72-2.png"
+    },
+    {
+      "file": "72-1.png"
+    },
+    {
+      "file": "72.png",
+      "tags": [
+        "Superhero"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "71.png",
+      "tags": [
+        "Superhero"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "71-2.png"
+    },
+    {
+      "file": "71-1.png"
+    },
+    {
+      "file": "70.png",
+      "tags": [
+        "Superhero"
+      ],
+      "lang": "en"
+    },
+    {
+      "file": "70-1.png"
+    },
+    {
+      "file": "70-2.png"
+    },
+    {
+      "file": "69-1.png"
+    },
+    {
+      "file": "69-2.png"
+    },
+    {
+      "file": "69.png",
+      "tags": [
+        "Superhero"
+      ],
+      "lang": "en"
+    },
     {
       "file": "67.png",
       "tags": [
