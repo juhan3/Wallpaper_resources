@@ -709,6 +709,25 @@
   ],
   "Man": [
     {
+      "file": "111.png",
+      "tags": [
+        "친구"
+      ],
+      "lang": "ko"
+    },
+    {
+      "file": "111-1.png"
+    },
+    {
+      "file": "111-3.png"
+    },
+    {
+      "file": "111-2.png"
+    },
+    {
+      "file": "111-4.png"
+    },
+    {
       "file": "110.png",
       "tags": [
         "shirt"
