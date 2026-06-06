@@ -3811,6 +3811,25 @@
   ],
   "DailyLife": [
     {
+      "file": "71.png",
+      "tags": [
+        "신입"
+      ],
+      "lang": "ko"
+    },
+    {
+      "file": "71-4.png"
+    },
+    {
+      "file": "71-3.png"
+    },
+    {
+      "file": "71-2.png"
+    },
+    {
+      "file": "71-1.png"
+    },
+    {
       "file": "70.png",
       "tags": [
         "Cocktail",
